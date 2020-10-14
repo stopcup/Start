@@ -4,7 +4,7 @@ prontera,163,203,5	script	Zeny แลก Item	562,{
 		mes "Item ที่คุณเลือก: " + getitemname(#target_zeny_to_item);
 		callsub L_CurrentInfo;
 		next;
-		menu "ไม่ทำอะไร",L_Cancel,"เริ่มจับรางวัลต่อ",L_DoProcess;
+		goto L_DoProcess;
 	}
 	else{
 		#is_zeny_to_item_using = 0;
@@ -43,8 +43,6 @@ prontera,163,203,5	script	Zeny แลก Item	562,{
 
 	callfunc("InventorySlotCheck");
 
-	//Cut-In here
-	
 	callfunc("IsZenyEnough",#zeny_to_item_price,"",1);
 	
 	.@sum = rand(1,100);
