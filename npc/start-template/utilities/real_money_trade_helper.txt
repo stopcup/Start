@@ -93,16 +93,18 @@
 	menu "ยกเลิก",L_Cancel,"ยืนยัน",-;
 	callfunc("UseZeny",@sum_zeny);
 	callfunc("UseCash",@sum_cash);
-	setarray $real_money_trade_helper_aid[getarraysize($real_money_trade_helper_aid)],@sum_aid;
-	setarray $real_money_trade_helper_zeny[getarraysize($real_money_trade_helper_zeny)],@sum_zeny;
-	setarray $real_money_trade_helper_cash[getarraysize($real_money_trade_helper_cash)],@sum_cash;
+	.@index = getarraysize($real_money_trade_helper_aid);
+	setarray $real_money_trade_helper_aid[.@index],@sum_aid;
+	setarray $real_money_trade_helper_owner[.@index],getcharid(3);
+	setarray $real_money_trade_helper_zeny[.@index],@sum_zeny;
+	setarray $real_money_trade_helper_cash[.@index],@sum_cash;
 	$rmth_id++;
-	setarray $real_money_trade_helper_title[getarraysize($real_money_trade_helper_title)],$rmth_id;
-	setarray $real_money_trade_helper_state[getarraysize($real_money_trade_helper_state)],0;
+	setarray $real_money_trade_helper_title[.@index],$rmth_id;
+	setarray $real_money_trade_helper_state[.@index],0;
 	query_sql("select userid from `login` WHERE login.account_id = " + @sum_aid,.@userid_receiver$);
-	setarray $real_money_trade_helper_buyer$[getarraysize($real_money_trade_helper_buyer$)],.@userid_receiver$;
+	setarray $real_money_trade_helper_buyer$[.@index],.@userid_receiver$;
 	query_sql("select userid from `login` WHERE login.account_id = " + getcharid(3),.@userid_sender$);
-	setarray $real_money_trade_helper_sender$[getarraysize($real_money_trade_helper_sender$)],.@userid_sender$;
+	setarray $real_money_trade_helper_sender$[.@index],.@userid_sender$;
 	mes "เลขที่อ้างอิง: " + $rmth_id;
 	return;
 	
@@ -121,16 +123,20 @@
 			next;
 			if($real_money_trade_helper_state[.@i] == 1)
 			goto L_Cancel;
-			menu "ยกเลิก",L_Cancel,"ยืนยัน",-;
+			menu "ยกเลิก",L_Cancel,"ยืนยัน",L_Good,"ยกเลิกการค้าขายนี้",L_Foul;
+			L_Foul:
+			$real_money_trade_helper_aid[.@i] = $real_money_trade_helper_owner[.@i];
+			L_Good:
 			$real_money_trade_helper_state[.@i] = 1;
 			freeloop(0);
 			close;
+			
 		}
 	}
 	mes "ไม่พบเลขที่อ้างอิงดังกล่าว";
 	freeloop(0);
 	close;
-
+	
 	L_Receive:
 	mes "โปรดตรวจสอบ Zeny/Cash ของท่านให้แน่ใจว่าไม่เกิน 2,000,000,000 หลังรับ ไม่งั้นบัค";
 	next;
@@ -148,6 +154,7 @@
 			$real_money_trade_helper_state[.@i] = 2;
 			
 			deletearray $real_money_trade_helper_aid[.@i],1;
+			deletearray $real_money_trade_helper_owner[.@i],1;
 			deletearray $real_money_trade_helper_zeny[.@i],1;
 			deletearray $real_money_trade_helper_cash[.@i],1;
 			deletearray $real_money_trade_helper_title[.@i],1;
