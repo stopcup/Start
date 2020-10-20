@@ -1,5 +1,5 @@
 -	script	aws-woe-status	-1,{
-end;
+	end;
 
 OnAgitStart:
 OnAgitStart2:
@@ -7,10 +7,10 @@ OnAgitStart3:
 OnAgitEnd:
 OnAgitEnd2:
 OnAgitEnd3:
-.@woe = agitcheck();
-.@woese = agitcheck2() << 1;
-.@woete = agitcheck3() << 2;
-.@status = .@woe|.@woese|.@woete;
-query_sql "UPDATE web_service SET `woe` = " + .@status + " WHERE `key` = 'woe';";
-end;
+	.@woe = agitcheck();
+	.@woese = agitcheck2() << 1;
+	.@woete = agitcheck3() << 2;
+	.@status = .@woe|.@woese|.@woete;
+	query_sql("UPDATE web_service SET value = " + .@status + " WHERE web_service.`key` = 'woe';");
+	end;
 }
