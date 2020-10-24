@@ -916,8 +916,6 @@ Body:
     Type: Healing
     Buy: 5000
     Weight: 300
-      Duration: 5000
-      Status: Reuse_Limit_F
     Script: |
       percentheal 100,100;
   - Id: 608
@@ -926,8 +924,6 @@ Body:
     Type: Healing
     Buy: 5000
     Weight: 300
-      Duration: 3000
-      Status: Reuse_Limit_G
     Script: |
       percentheal 50,50;
   - Id: 609
@@ -1793,8 +1789,6 @@ Body:
     Buy: 2500
     Weight: 100
     EquipLevelMin: 100
-      Duration: 1000
-      Status: Reuse_Limit_E
     Script: |
       itemheal rand(400,800),0;
   - Id: 11523
@@ -1804,8 +1798,6 @@ Body:
     Buy: 3000
     Weight: 120
     EquipLevelMin: 110
-      Duration: 2000
-      Status: Reuse_Limit_E
     Script: |
       itemheal rand(600,1000),0;
   - Id: 11524
@@ -1815,8 +1807,6 @@ Body:
     Buy: 3500
     Weight: 140
     EquipLevelMin: 120
-      Duration: 3000
-      Status: Reuse_Limit_E
     Script: |
       itemheal rand(800,1200),0;
   - Id: 11525
@@ -1826,8 +1816,6 @@ Body:
     Buy: 20
     Weight: 150
     EquipLevelMin: 120
-      Duration: 5000
-      Status: Reuse_Limit_H
     Script: |
       itemheal rand(1500,2000),0;
   - Id: 11526
@@ -2379,7 +2367,6 @@ Body:
     Buy: 800
     Weight: 7
     EquipLevelMin: 60
-      Duration: 1000
     Script: |
       itemheal 325,0;
   - Id: 11622
@@ -2389,7 +2376,6 @@ Body:
     Buy: 1200
     Weight: 10
     EquipLevelMin: 60
-      Duration: 1000
     Script: |
       itemheal 900,0;
   - Id: 11623
@@ -2399,7 +2385,6 @@ Body:
     Buy: 1500
     Weight: 14
     EquipLevelMin: 60
-      Duration: 1000
     Script: |
       itemheal 1800,0;
   - Id: 11624
@@ -2409,7 +2394,6 @@ Body:
     Buy: 7000
     Weight: 10
     EquipLevelMin: 60
-      Duration: 10000
     Script: |
       itemheal 0,180;
   - Id: 11701
@@ -3586,7 +3570,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 30
-      Duration: 3000
     Script: |
       percentheal 50,50; sc_start SC_CONFUSION,10000,0,1000,0;
   - Id: 12136
@@ -4142,8 +4125,6 @@ Body:
     Type: Usable
     Buy: 2
     Weight: 10
-      Duration: 60000
-      Status: Reuse_Limit_C
     Script: |
       sc_start SC_EXPBOOST,1800000,50;
   - Id: 12209
@@ -4160,8 +4141,6 @@ Body:
     Type: Usable
     Buy: 2
     Weight: 10
-      Duration: 60000
-      Status: Reuse_Limit_D
     Script: |
       sc_start SC_ITEMBOOST,1800000,200;
   - Id: 12211
@@ -5047,7 +5026,6 @@ Body:
     Name: Ancilla
     Type: Usable
     Weight: 10
-      Amount: 3
     Script: |
       percentheal 0,15; sc_start SC_ANCILLA,60000,1;
   - Id: 12334
@@ -6847,8 +6825,6 @@ Body:
     Name: Magic Candy
     Type: Usable
     Weight: 10
-      Duration: 180000
-      Status: Reuse_Limit_B
     Script: |
       specialeffect2 EF_HASTEUP; bonus_script "{ bonus bMatk,30; bonus bFixedCastrate,-70; bonus bNoCastCancel; bonus2 bSPLossRate,90,10000; }",60,0,0,EFST_MAGIC_CANDY;
   - Id: 12597
@@ -7022,8 +6998,6 @@ Body:
     AegisName: Boarding_Halter
     Name: Reins Of Mount
     Type: Usable
-      Duration: 3000
-      Status: All_Riding_Reuse_Limit
     Script: |
       setmounting();
     UnEquipScript: |
@@ -7281,8 +7255,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1109,1200000,SC_MTF_ASPD,10,5; showscript "Traaaansformation-!! Deviruchi form!!";
   - Id: 12659
@@ -7291,8 +7263,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1276,1200000,SC_MTF_RANGEATK,25; showscript "Traaaansformation-!! Raydric form!!";
   - Id: 12660
@@ -7301,8 +7271,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1884,1200000,SC_MTF_RANGEATK,25; showscript "Traaaansformation-!! Mavka form!!";
   - Id: 12661
@@ -7311,8 +7279,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1140,1200000,SC_MTF_MATK,25; showscript "Traaaansformation-!! Marduk form!!";
   - Id: 12662
@@ -7321,8 +7287,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1867,1200000,SC_MTF_MATK,25; showscript "Traaaansformation-!! Banshee form!!";
   - Id: 12663
@@ -7331,8 +7295,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1002,1200000,SC_MTF_CRIDAMAGE,25; showscript "Traaaansformation-!! Poring form!!";
   - Id: 12664
@@ -7341,8 +7303,6 @@ Body:
     Type: Usable
     Buy: 20
     Weight: 10
-      Duration: 10000
-      Status: Reuse_Limit_Mtf
     Script: |
       transform 1040,1200000,SC_MTF_MLEATKED,5,20,2; showscript "Traaaansformation-!! Golem form!!";
   - Id: 12665
@@ -7490,8 +7450,6 @@ Body:
     Name: ASPD Potion
     Type: Usable
     Weight: 10
-      Duration: 900000
-      Status: Reuse_Limit_Aspd_Potion
     Script: |
       sc_start SC_ATTHASTE_CASH,900000,3;
   - Id: 12685
@@ -7769,8 +7727,6 @@ Body:
     Type: Usable
     Buy: 100
     Weight: 10
-      Duration: 120000
-      Status: Reuse_Refresh
     Script: |
       if ((eaclass()&EAJ_THIRDMASK) == EAJ_RUNE_KNIGHT) unitskilluseid getcharid(3),"RK_REFRESH",1;
   - Id: 12726
@@ -7779,8 +7735,6 @@ Body:
     Type: Usable
     Buy: 100
     Weight: 10
-      Duration: 30000
-      Status: Reuse_Crushstrike
     Script: |
       if ((eaclass()&EAJ_THIRDMASK) == EAJ_RUNE_KNIGHT) unitskilluseid getcharid(3),"RK_CRUSHSTRIKE",1;
   - Id: 12727
@@ -7789,8 +7743,6 @@ Body:
     Type: Usable
     Buy: 100
     Weight: 10
-      Duration: 60000
-      Status: Reuse_Millenniumshield
     Script: |
       if ((eaclass()&EAJ_THIRDMASK) == EAJ_RUNE_KNIGHT) unitskilluseid getcharid(3),"RK_MILLENNIUMSHIELD",1;
   - Id: 12728
@@ -7831,8 +7783,6 @@ Body:
     Type: Usable
     Buy: 100
     Weight: 10
-      Duration: 1000
-      Status: Reuse_Stormblast
     Script: |
       if ((eaclass()&EAJ_THIRDMASK) == EAJ_RUNE_KNIGHT) unitskilluseid getcharid(3),"RK_STORMBLAST",1;
   - Id: 12733
@@ -8376,8 +8326,6 @@ Body:
     Name: Snow Flip
     Type: Delayconsume
     Weight: 10
-      Duration: 5000
-      Status: Reuse_Limit_Ecl
     Script: |
       itemskill "ECL_SNOWFLIP",1;
   - Id: 12813
@@ -8385,8 +8333,6 @@ Body:
     Name: Peony Mamy
     Type: Delayconsume
     Weight: 10
-      Duration: 5000
-      Status: Reuse_Limit_Ecl
     Script: |
       itemskill "ECL_PEONYMAMY",1;
   - Id: 12814
@@ -8394,8 +8340,6 @@ Body:
     Name: Slapping Herb
     Type: Delayconsume
     Weight: 10
-      Duration: 5000
-      Status: Reuse_Limit_Ecl
     Script: |
       itemskill "ECL_SADAGUI",1;
   - Id: 12815
@@ -8403,8 +8347,6 @@ Body:
     Name: Yggdrasil Dust
     Type: Delayconsume
     Weight: 10
-      Duration: 5000
-      Status: Reuse_Limit_Ecl
     Script: |
       itemskill "ECL_SEQUOIADUST",1;
   - Id: 12816
@@ -9347,8 +9289,6 @@ Body:
     Type: Usable
     Buy: 2
     Weight: 10
-      Duration: 300000
-      Status: Reuse_Limit_Recall
     Script: |
       unitskilluseid getcharid(3),"GD_ITEMEMERGENCYCALL",1;
   - Id: 12969
@@ -9357,8 +9297,6 @@ Body:
     Type: Usable
     Buy: 2
     Weight: 10
-      Duration: 300000
-      Status: Reuse_Limit_Recall
     Script: |
       unitskilluseid getcharid(3),"GD_ITEMEMERGENCYCALL",2;
   - Id: 12970
@@ -9367,8 +9305,6 @@ Body:
     Type: Usable
     Buy: 2
     Weight: 10
-      Duration: 300000
-      Status: Reuse_Limit_Recall
     Script: |
       unitskilluseid getcharid(3),"GD_ITEMEMERGENCYCALL",3;
   - Id: 12971
@@ -16887,8 +16823,6 @@ Body:
     Name: Glass of Illusion
     Type: Usable
     Weight: 10
-      Duration: 300000
-      Status: Reuse_Limit_A
     Script: |
       specialeffect2 EF_STEAL; sc_start SC_INCFLEE2,60000,20;
   - Id: 14539
@@ -17244,8 +17178,6 @@ Body:
     Name: Jumping Candy
     Type: Usable
     Weight: 10
-      Duration: 180000
-      Status: Reuse_Limit_B
     Script: |
       specialeffect2 EF_HASTEUP; bonus_script "{ bonus2 bHPLossRate,100,10000; bonus bBaseAtk,20; bonus bAspdRate,25; bonus bNoWalkDelay; }",60,0,0,EFST_STEAMPACK;
   - Id: 14587
@@ -23089,7 +23021,6 @@ Body:
     AegisName: Para_Team_Mark_
     Name: Eden Group Mark
     Type: Usable
-      Duration: 1200000
     Script: |
       warp "moc_para01",171,115;
   - Id: 22507
@@ -23290,8 +23221,6 @@ Body:
       Third: true
       Third_Upper: true
       Third_Baby: true
-      Duration: 5000
-      Status: Reuse_Limit_Luxanima
     Script: |
       itemskill "RK_LUXANIMA",1;
   - Id: 22541
@@ -23427,8 +23356,6 @@ Body:
     Type: Delayconsume
     Buy: 20
     Weight: 100
-      Duration: 3000
-      Status: Reuse_Limit_G
     Script: |
       percentheal 50,50; itemskill "SM_ENDURE",3;
   - Id: 22563
@@ -23809,8 +23736,6 @@ Body:
     Type: Delayconsume
     Weight: 1
     EquipLevelMin: 100
-      Duration: 5000
-      Status: Reuse_Limit_F
     Script: |
       callfunc("F_Pieces_Of_Sentiment");
   - Id: 22691
@@ -24747,8 +24672,6 @@ Body:
     Name: "[NotForSale]Yggdrasil Seed"
     Type: Healing
     Weight: 300
-      Duration: 3000
-      Status: Reuse_Limit_G
     Script: |
       percentheal 50,50;
   - Id: 23043
@@ -24980,7 +24903,6 @@ Body:
       Third_Upper: true
       Third_Baby: true
     EquipLevelMin: 100
-      Duration: 180000
     Script: |
       setmadogear 1;
   - Id: 23280
@@ -25298,3 +25220,27 @@ Body:
     EquipLevelMin: 180
     Script: |
       itemheal rand(2730,2750),0;
+  - Id: 50000
+    AegisName: Cash_Coin_1
+    Name: Cash Coin 1
+    Type: Usable
+    Script: |
+      callfunc("AddCash",1);
+  - Id: 50001
+    AegisName: Cash_Coin_10
+    Name: Cash Coin 10
+    Type: Usable
+    Script: |
+      callfunc("AddCash",10);
+  - Id: 50002
+    AegisName: Cash_Coin_100
+    Name: Cash Coin 100
+    Type: Usable
+    Script: |
+      callfunc("AddCash",100);
+  - Id: 50003
+    AegisName: Cash_Coin_1000
+    Name: Cash Coin 1000
+    Type: Usable
+    Script: |
+      callfunc("AddCash",1000);

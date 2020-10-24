@@ -10848,16 +10848,14 @@ Body:
     SubType: Mace
     Buy: 1
     Weight: 10
-    Attack: 10000
-    MagicAttack: 10000
+    Attack: 100
+    MagicAttack: 100
     Range: 2
     Locations:
       Right_Hand: true
     WeaponLevel: 1
     EquipLevelMin: 1
     Refineable: true
-    Script: |
-      bonus bAllStats,50; bonus bBaseAtk,3300; bonus bMatkRate,200; bonus2 bHPDrainRate,1000,100; bonus2 bSPDrainRate,1000,20; bonus bHealPower,200; bonus2 bAddClass,Class_All,100; skill "WZ_STORMGUST",10; Skill "WZ_METEOR",10; Skill "WZ_VERMILION",10; skill "GM_SANDMAN",1; bonus bVariableCastrate,-100; bonus bFixedCastrate,-100; bonus bAspdRate,100;
   - Id: 1600
     AegisName: Rod_of_Vicious_Mind
     Name: Rod of Vicious Mind
@@ -19433,14 +19431,12 @@ Body:
     Type: Armor
     Buy: 1
     Weight: 10
-    Defense: 10000
+    Defense: 10
     Locations:
       Left_Hand: true
     EquipLevelMin: 1
     Refineable: true
     View: 1
-    Script: |
-      bonus bAllStats,50; bonus bMdef,99; bonus bShortWeaponDamageReturn,100; bonus2 bSubRace,RC_DemiHuman,95; bonus2 bSubRace,RC_Player_Human,95; skill "CR_FULLPROTECTION",5; skill "WZ_ESTIMATION",1; skill "ST_FULLSTRIP",5; skill "HW_MAGICPOWER",10; skill "ECL_SNOWFLIP",1; skill "ECL_PEONYMAMY",1; skill "ECL_SADAGUI",1; skill "ECL_SEQUOIADUST",1; bonus bMaxHPrate,200; bonus bNoKnockback; bonus bDelayRate,-20; bonus bSpeedRate,25; bonus bIntravision; bonus bNoWalkDelay;
   - Id: 2201
     AegisName: Sunglasses
     Name: Sunglasses
