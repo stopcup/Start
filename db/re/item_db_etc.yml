@@ -379,14 +379,12 @@ Body:
     Type: Etc
     Buy: 2000
     Weight: 50
-      Override: 100
   - Id: 745
     AegisName: Wedding_Bouquet
     Name: Wedding Bouquet
     Type: Etc
     Buy: 12000
     Weight: 50
-      Override: 100
   - Id: 746
     AegisName: Glass_Bead
     Name: Glass Bead
@@ -11652,7 +11650,6 @@ Body:
     AegisName: Dark_Ashes
     Name: Ashes of Darkness
     Type: Etc
-      Override: 100
   - Id: 6001
     AegisName: Essence_Of_Fire
     Name: Essence of Fire
@@ -11678,19 +11675,16 @@ Body:
     Name: New Year Rice Cake
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6006
     AegisName: Rice_Cake_Delivery_Box
     Name: Rice Cake Delivery Box
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6007
     AegisName: New_Year_Rice_Cake_Soup
     Name: New Year Rice Cake Soup
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6008
     AegisName: Wood
     Name: Wood
@@ -11700,7 +11694,6 @@ Body:
     AegisName: Large_Magical_Fan
     Name: Big Fan Of Magic
     Type: Etc
-      Override: 100
   - Id: 6010
     AegisName: Pickaxe
     Name: Hoe
@@ -11776,33 +11769,27 @@ Body:
     Type: Etc
     Buy: 6000000
     Weight: 10
-      Override: 100
   - Id: 6025
     AegisName: Towel_Of_Memory
     Name: Towel of Memory
     Type: Etc
-      Override: 100
   - Id: 6026
     AegisName: Marriage_Covenant
     Name: Written Oath Of Marriage
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6027
     AegisName: Crystal_Of_Feardoom
     Name: Crystal Of Feardom
     Type: Etc
-      Override: 100
   - Id: 6028
     AegisName: Seal_Scroll
     Name: Sealed Scroll
     Type: Etc
-      Override: 100
   - Id: 6029
     AegisName: Morocc_Tracing_Log
     Name: Morocc Tracing Log
     Type: Etc
-      Override: 100
   - Id: 6030
     AegisName: Glitering_PaperA
     Name: Glittering Paper
@@ -11829,40 +11816,33 @@ Body:
     AegisName: Weird_Part
     Name: Weird Part
     Type: Etc
-      Override: 100
   - Id: 6035
     AegisName: Decaying_Stem
     Name: Decaying Stem
     Type: Etc
-      Override: 100
   - Id: 6036
     AegisName: Invite_To_Meeting
     Name: Meeting Invitation
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6037
     AegisName: Rough_File
     Name: Messy File
     Type: Etc
-      Override: 100
   - Id: 6038
     AegisName: Neat_Report
     Name: Neat Report
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6039
     AegisName: Piece_Of_Fish
     Name: Piece of Fish
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6040
     AegisName: Some_Of_Report
     Name: Part of a Report
     Type: Etc
-      Override: 100
   - Id: 6041
     AegisName: Strong_Bine
     Name: Strong Vine
@@ -11874,54 +11854,45 @@ Body:
     Name: Ordinary Branch
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6043
     AegisName: Letter_From_Lugen
     Name: Letter from Lugen
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6044
     AegisName: Letter_From_Otto
     Name: Letter from Otto
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6045
     AegisName: Supply_Box
     Name: Supply Box
     Type: Etc
-      Override: 100
   - Id: 6048
     AegisName: Unidentified_Mineral
     Name: Unidentified Mineral
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6049
     AegisName: Marlin
     Name: Marlin
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6050
     AegisName: Mercenary_Contract
     Name: Mercenary Contract
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6051
     AegisName: Gray_Hollow
     Name: Gray Hollow
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6052
     AegisName: Ornamental_Hairpin
     Name: Ornament Hairpin
     Type: Etc
     Buy: 1
-      Override: 100
   - Id: 6053
     AegisName: Yuanbao
     Name: Circle Step
@@ -11964,7 +11935,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6061
     AegisName: Plantain
     Name: Blood Beginner
@@ -12024,19 +11994,16 @@ Body:
     Name: Shaman's Document
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6071
     AegisName: Broken_Sword
     Name: Broken Sword
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6072
     AegisName: Wing_Of_Bizofnil
     Name: Bijofnil Feather
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6073
     AegisName: Dragon's_Mane
     Name: Dragon's Mane
@@ -12045,7 +12012,6 @@ Body:
     AegisName: Bazett's_Order
     Name: Bazett's Order
     Type: Etc
-      Override: 100
   - Id: 6075
     AegisName: Crystalized_Teardrop
     Name: Crystalized Teardrop
@@ -12054,37 +12020,30 @@ Body:
     AegisName: Portable_Toolbox
     Name: Portable Toolbox
     Type: Etc
-      Override: 100
   - Id: 6077
     AegisName: Rough_Mineral
     Name: Rough Mineral
     Type: Etc
-      Override: 100
   - Id: 6078
     AegisName: Stone_Fragments
     Name: Stone Fragment
     Type: Etc
-      Override: 100
   - Id: 6079
     AegisName: Flower_Of_Alfheim
     Name: Flower Of Alfheim
     Type: Etc
-      Override: 100
   - Id: 6080
     AegisName: Manuk_Coin
     Name: Manuk Coin
     Type: Etc
-      Override: 100
   - Id: 6081
     AegisName: Splendide_Coin
     Name: Splendide Coin
     Type: Etc
-      Override: 100
   - Id: 6082
     AegisName: Spirit_Of_Alfheim
     Name: Spirit Of Alfheim
     Type: Etc
-      Override: 100
   - Id: 6083
     AegisName: Dolly_Capsule
     Name: Capsule Dolls
@@ -12094,12 +12053,10 @@ Body:
     AegisName: Bradium_Fragments
     Name: Bradium Fragments
     Type: Etc
-      Override: 100
   - Id: 6085
     AegisName: Shaggy_Muffler
     Name: Shaggy Muffler
     Type: Etc
-      Override: 100
   - Id: 6086
     AegisName: Withered_Flower
     Name: Withered Flower
@@ -12145,7 +12102,6 @@ Body:
     AegisName: Egg_Of_Draco
     Name: Draco's Egg
     Type: Etc
-      Override: 100
   - Id: 6094
     AegisName: Traditional_Cookie
     Name: Traditional Sweets
@@ -12192,17 +12148,14 @@ Body:
     AegisName: Attendance_Card
     Name: Attendance Card
     Type: Etc
-      Override: 100
   - Id: 6102
     AegisName: Report_On_Splendide
     Name: Report On Splendide
     Type: Etc
-      Override: 100
   - Id: 6103
     AegisName: Report_On_Manuk
     Name: Report On Manuk
     Type: Etc
-      Override: 100
   - Id: 6104
     AegisName: Big_Cell
     Name: Big Cell
@@ -12279,17 +12232,14 @@ Body:
     AegisName: Succu_Pet_Coupon
     Name: Succubus Pet Exchange Coupon
     Type: Etc
-      Override: 100
   - Id: 6117
     AegisName: Imp_Pet_Coupon
     Name: Imp Pet Exchange Coupon
     Type: Etc
-      Override: 100
   - Id: 6118
     AegisName: Chung_E_Pet_Coupon
     Name: Chung E Exchange Coupon
     Type: Etc
-      Override: 100
   - Id: 6119
     AegisName: Natural_Leather
     Name: Cow Leather
@@ -12305,13 +12255,11 @@ Body:
     Name: Makeover Brush
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6122
     AegisName: Paint_Brush
     Name: Paint Brush
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6123
     AegisName: Surface_Paint
     Name: Surface Paint
@@ -12323,24 +12271,20 @@ Body:
     Name: Wolf Flute
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6125
     AegisName: Lucky_Box
     Name: Spring Time Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6126
     AegisName: Happy_Box
     Name: Summer Happy Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6127
     AegisName: Purification_Stone
     Name: Purification Stone
     Type: Etc
-      Override: 100
   - Id: 6128
     AegisName: Guillotine_Antidote
     Name: Antidote
@@ -12350,91 +12294,76 @@ Body:
     Name: Nightmare Terror Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6130
     AegisName: Ticket_Loli_Ruri
     Name: Loli Ruri Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6131
     AegisName: Ticket_Goblin_Leader
     Name: Goblin Leader Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6132
     AegisName: Ticket_Incubus
     Name: Incubus Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6133
     AegisName: Ticket_Miyabi_Ningyo
     Name: Miyabi Ningyo Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6134
     AegisName: Ticket_Whisper
     Name: Giant Whisper Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6135
     AegisName: Ticket_Wicked_Nymph
     Name: Evil Nymph Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6136
     AegisName: Ticket_Medusa
     Name: Medusa Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6137
     AegisName: Ticket_Stoneshooter
     Name: Stone Shooter Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6138
     AegisName: Ticket_Marionette
     Name: Marionette Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6139
     AegisName: Ticket_Leafcat
     Name: Leaf Cat Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6140
     AegisName: Ticket_Dullahan
     Name: Dullahan Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6141
     AegisName: Ticket_Shinobi
     Name: Shinobi Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6142
     AegisName: Ticket_Golem
     Name: Golem Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6143
     AegisName: Ticket_Civil_Servant
     Name: Civil Servant Exchange Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6144
     AegisName: Heartbroken_Tears
     Name: Regrettable Tears
@@ -12463,38 +12392,31 @@ Body:
     AegisName: Chocolate_Of_Eternity
     Name: Eternity Of Chocolate
     Type: Etc
-      Override: 100
   - Id: 6149
     AegisName: Plain_Chocolate
     Name: Simple Chocolate
     Type: Etc
-      Override: 100
   - Id: 6150
     AegisName: Key_Of_The_Mansion
     Name: Key of The Mansion
     Type: Etc
-      Override: 100
   - Id: 6151
     AegisName: Peice_Of_Great_Bradium
     Name: Giant Bradium Fragment
     Type: Etc
-      Override: 100
   - Id: 6152
     AegisName: Glittering_Crystal
     Name: Glittering Crystal
     Type: Etc
-      Override: 100
   - Id: 6153
     AegisName: Special_Exchange_Coupon
     Name: Special Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6154
     AegisName: Broken_Horn_Pipe
     Name: Broken Horn Pipe
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6155
     AegisName: Coke_Membership_Card
     Name: Member Card
@@ -12504,152 +12426,122 @@ Body:
     Name: Approval Report
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6157
     AegisName: Poring_Ticket
     Name: Poring Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6158
     AegisName: Drops_Ticket
     Name: Drops Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6159
     AegisName: Poporing_Ticket
     Name: Poporing Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6160
     AegisName: Lunatic_Ticket
     Name: Lunatic Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6161
     AegisName: Picky_Ticket
     Name: Picky Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6162
     AegisName: Pecopeco_Ticket
     Name: Peco Peco Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6163
     AegisName: Savage_Baby_Ticket
     Name: Savage Babe Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6164
     AegisName: Spore_Ticket
     Name: Spore Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6165
     AegisName: Poison_Spore_Ticket
     Name: Poison Spore Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6166
     AegisName: Chonchon_Ticket
     Name: Chonchon Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6167
     AegisName: Steel_Chonchon_Ticket
     Name: Steel Chonchon Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6168
     AegisName: Petit_Ticket
     Name: Sky Petite Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6169
     AegisName: Deviruchi_Ticket
     Name: Deviruchi Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6170
     AegisName: Isis_Ticket
     Name: Isis Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6171
     AegisName: Smokie_Ticket
     Name: Smokie Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6172
     AegisName: Dokebi_Ticket
     Name: Dokebi Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6173
     AegisName: Desert_Wolf_B_Ticket
     Name: Baby Desert Wolf Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6174
     AegisName: Yoyo_Ticket
     Name: Yoyo Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6175
     AegisName: Sohee_Ticket
     Name: Sohee Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6176
     AegisName: Rocker_Ticket
     Name: Rocker Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6177
     AegisName: Hunter_Fly_Ticket
     Name: Hunter Fly Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6178
     AegisName: Orc_Warrior_Ticket
     Name: Orc Warrior Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6179
     AegisName: Bapho_Jr_Ticket
     Name: Bapho Jr. Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6180
     AegisName: Munak_Ticket
     Name: Munak Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6181
     AegisName: Bongun_Ticket
     Name: Bongun Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6182
     AegisName: Goblin_Ticket
     Name: Christmas Goblin Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6183
     AegisName: Hardtack_Ticket
     Name: Rice Cake Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6184
     AegisName: Zherlthsh_Ticket
     Name: Zherlthsh Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6185
     AegisName: Alice_Ticket
     Name: Alice Exchange Ticket
     Type: Etc
-      Override: 100
   - Id: 6186
     AegisName: Monkey_Wrench
     Name: Monkey Wrench
@@ -12740,17 +12632,14 @@ Body:
     AegisName: I_Love_You
     Name: I Love You
     Type: Etc
-      Override: 100
   - Id: 6207
     AegisName: Thank_You
     Name: Thank You
     Type: Etc
-      Override: 100
   - Id: 6208
     AegisName: I_Respect_You
     Name: I Respect You
     Type: Etc
-      Override: 100
   - Id: 6209
     AegisName: Glory_Of_Knights
     Name: Knight's Honor
@@ -12807,12 +12696,10 @@ Body:
     AegisName: Disin_Delivery_Box
     Name: Delivery Daishin Box
     Type: Etc
-      Override: 100
   - Id: 6219
     AegisName: Para_Team_Mark
     Name: Eden Group Mark
     Type: Etc
-      Override: 100
   - Id: 6220
     AegisName: Mysterious_Dyestuff
     Name: Mysterious Dyestuff
@@ -12844,94 +12731,77 @@ Body:
     Name: HD Carnium
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6226
     AegisName: HD_Bradium
     Name: HD Bradium
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6228
     AegisName: Guarantee_Weapon_9Up
     Name: +9 Weapon Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6229
     AegisName: Guarantee_Weapon_8Up
     Name: +8 Weapon Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6230
     AegisName: Guarantee_Weapon_7Up
     Name: +7 Weapon Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6231
     AegisName: Guarantee_Weapon_6Up
     Name: +6 Weapon Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6232
     AegisName: Guarantee_Armor_9Up
     Name: +9 Armor Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6233
     AegisName: Guarantee_Armor_8Up
     Name: +8 Armor Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6234
     AegisName: Guarantee_Armor_7Up
     Name: +7 Armor Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6235
     AegisName: Guarantee_Armor_6Up
     Name: +6 Armor Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6236
     AegisName: Blue_Card_7
     Name: Blue Card 7
     Type: Etc
-      Override: 100
   - Id: 6237
     AegisName: Guarana_Fruit
     Name: Guarana Fruit
     Type: Etc
-      Override: 100
   - Id: 6238
     AegisName: Guarantee_Weapon_11Up
     Name: +11 Weapon Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6239
     AegisName: Guarantee_Armor_11Up
     Name: +11 Armor Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6240
     AegisName: HD_Oridecon
     Name: HD Oridecon
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6241
     AegisName: HD_Elunium
     Name: HD Elunium
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6242
     AegisName: Midgard_Coin
     Name: Midgard Coin
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6243
     AegisName: Exchange_Coupon
     Name: Exchange Coupon
@@ -13072,67 +12942,54 @@ Body:
     AegisName: Cheat_Key
     Name: Key Of Deception
     Type: Etc
-      Override: 100
   - Id: 6267
     AegisName: Virtual_Key
     Name: Key Of Illusion
     Type: Etc
-      Override: 100
   - Id: 6268
     AegisName: Mirth_Key
     Name: Key Of Gaiety
     Type: Etc
-      Override: 100
   - Id: 6269
     AegisName: Master_Brush
     Name: A Master's Blush
     Type: Etc
-      Override: 100
   - Id: 6270
     AegisName: Mins_Picture
     Name: A Picture Of Minstrel Song
     Type: Etc
-      Override: 100
   - Id: 6271
     AegisName: Mins_Receipt
     Name: Receipt
     Type: Etc
-      Override: 100
   - Id: 6272
     AegisName: Experiment_Seed
     Name: Experiment Seed
     Type: Etc
-      Override: 100
   - Id: 6273
     AegisName: Altered_Seed
     Name: Seed For Experiment
     Type: Etc
-      Override: 100
   - Id: 6274
     AegisName: Saint_Cloth_Piece
     Name: A Piece Of Cloth Of A Saint
     Type: Etc
-      Override: 100
   - Id: 6275
     AegisName: King_Shield
     Name: Shield Of King
     Type: Etc
-      Override: 100
   - Id: 6276
     AegisName: Clear_Reagent
     Name: Clear Reagent
     Type: Etc
-      Override: 100
   - Id: 6277
     AegisName: Red_Reagent
     Name: Red Reagent
     Type: Etc
-      Override: 100
   - Id: 6278
     AegisName: Black_Reagent
     Name: Black Reagent
     Type: Etc
-      Override: 100
   - Id: 6279
     AegisName: Apple_Bomb_CB
     Name: Apple Bomb Guidebook
@@ -13232,7 +13089,6 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6297
     AegisName: Bottle_To_Throw
     Name: Throwing Bottle
@@ -13244,13 +13100,11 @@ Body:
     Name: Pumpkin Head Crushed
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6299
     AegisName: Worn_Cloth_Piece
     Name: Worn Cloth Piece
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6300
     AegisName: J_7Draw
     Name: event
@@ -13276,27 +13130,22 @@ Body:
     AegisName: Sapa_Feat_Cert
     Name: Proof Of Sapha's Honor
     Type: Etc
-      Override: 100
   - Id: 6305
     AegisName: Frozen_Skin_Piece
     Name: Frozen Piece Of Skin
     Type: Etc
-      Override: 100
   - Id: 6306
     AegisName: Solid_Bloodstain
     Name: Hard Bloodstain
     Type: Etc
-      Override: 100
   - Id: 6307
     AegisName: Suspicious_Magic_Stone
     Name: Cursed Magical Stone
     Type: Etc
-      Override: 100
   - Id: 6308
     AegisName: Unidentified_Relic
     Name: Unidentified Relic
     Type: Etc
-      Override: 100
   - Id: 6309
     AegisName: E_Max_Weight_Up_Scroll
     Name: E Max Weight Up Scroll
@@ -13339,7 +13188,6 @@ Body:
     Type: Etc
     Buy: 2
     Weight: 10
-      Override: 100
   - Id: 6317
     AegisName: E_Marriage_Covenant
     Name: E Marriage Covenant
@@ -13360,7 +13208,6 @@ Body:
     Name: Premium Reset Stone
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6321
     AegisName: Rakehorn_Helm
     Name: Rakehorn Helm
@@ -13403,7 +13250,6 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6328
     AegisName: Calender_January
     Name: Calender January
@@ -13492,7 +13338,6 @@ Body:
     AegisName: Love_Ball
     Name: Love Lump
     Type: Etc
-      Override: 100
   - Id: 6346
     AegisName: Seagate_Mark
     Name: Seagate Mark
@@ -13502,78 +13347,65 @@ Body:
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6348
     AegisName: Bless_Word_Paper2
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6349
     AegisName: Bless_Word_Paper3
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6350
     AegisName: Bless_Word_Paper4
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6351
     AegisName: Bless_Word_Paper5
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6352
     AegisName: Bless_Word_Paper6
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6353
     AegisName: Bless_Word_Paper7
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6354
     AegisName: Bless_Word_Paper8
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6355
     AegisName: Bless_Word_Paper9
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6356
     AegisName: Bless_Word_Paper10
     Name: Bless Word Paper
     Type: Etc
     Buy: 4020
-      Override: 100
   - Id: 6357
     AegisName: Fortune_Cookie_Fail
     Name: Fortune Cookie Fail
     Type: Etc
     Buy: 4020
     Weight: 10
-      Override: 100
   - Id: 6358
     AegisName: Free_Cash_Coupon
     Name: Free Cash Coupon
     Type: Etc
-      Override: 100
   - Id: 6359
     AegisName: Guidebook_Exchange
     Name: Guidebook Exchange
     Type: Etc
-      Override: 100
   - Id: 6360
     AegisName: Scarlet_Pts
     Name: Scarlet Point
@@ -13656,12 +13488,10 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6378
     AegisName: Winning_Mark
     Name: Winning Mark
     Type: Etc
-      Override: 100
   - Id: 6379
     AegisName: Card_Coin
     Name: Card Coin
@@ -13673,7 +13503,6 @@ Body:
     Name: Mora Coin
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6381
     AegisName: Field_Shovel
     Name: Field Shovel
@@ -13692,61 +13521,51 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6384
     AegisName: Ring_Of_Lope
     Name: Lope's Ring
     Type: Etc
-      Override: 100
   - Id: 6385
     AegisName: Research_Tool_Bag
     Name: Research Tool Bag
     Type: Etc
-      Override: 100
   - Id: 6386
     AegisName: Bathtub_R_Sample
     Name: Bath Water Sample
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6387
     AegisName: Teeth_Sample
     Name: Teeth Sample
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6388
     AegisName: Scale_Sample
     Name: Scale Sample
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6389
     AegisName: Puddle_R_Sample
     Name: Sample Of Puddle Research
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6390
     AegisName: Small_Pocket
     Name: Small Pocket
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6391
     AegisName: Splendid_Supply_Kit
     Name: Splendid Supply Kit
     Type: Etc
     Buy: 20
     Weight: 2000
-      Override: 100
   - Id: 6392
     AegisName: Bradium_Box
     Name: Bradium Box
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6393
     AegisName: Round_Feather
     Name: Round Feather
@@ -13770,39 +13589,32 @@ Body:
     Name: Auger Of Spirit
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6397
     AegisName: PR_Team_Ticket
     Name: PR Team Ticket
     Type: Etc
-      Override: 100
   - Id: 6398
     AegisName: Develop_Team_Ticket
     Name: Develop Team Ticket
     Type: Etc
-      Override: 100
   - Id: 6399
     AegisName: Marketing_Team_Ticket
     Name: Marketing Team Ticket
     Type: Etc
-      Override: 100
   - Id: 6400
     AegisName: Operating_Team_Ticket
     Name: Operating Team Ticket
     Type: Etc
-      Override: 100
   - Id: 6401
     AegisName: Palm_O
     Name: Palm Oil
     Type: Etc
     Weight: 500
-      Override: 100
   - Id: 6402
     AegisName: Oil_Palm_F
     Name: Palm Oil Fruit
     Type: Etc
     Weight: 50
-      Override: 100
   - Id: 6403
     AegisName: Comodo_L
     Name: Comodo Leather
@@ -13856,19 +13668,16 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6412
     AegisName: Special_Medal
     Name: Special Medal
     Type: Etc
-      Override: 100
   - Id: 6413
     AegisName: New_Insurance
     Name: New Insurance
     Type: Etc
     Buy: 2
     Weight: 10
-      Override: 100
   - Id: 6414
     AegisName: Raganta_Card
     Name: Ragunta Card
@@ -13879,18 +13688,15 @@ Body:
     AegisName: Strange_Embryo
     Name: Strange Embryo
     Type: Etc
-      Override: 100
   - Id: 6416
     AegisName: Pet_Exchange
     Name: Pet Exchange
     Type: Etc
-      Override: 100
   - Id: 6417
     AegisName: Silvervine
     Name: Silvervine Fruit
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6418
     AegisName: Agrade_Coin
     Name: A Grade Coin
@@ -13926,76 +13732,63 @@ Body:
     Name: Spirit Piece
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6425
     AegisName: Halloween_Certificate
     Name: Halloween Certificate
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6426
     AegisName: Bad_Can
     Name: Bad Canned Food
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6427
     AegisName: Bad_Can_Sack
     Name: Bad Canned Food Sack
     Type: Etc
-      Override: 100
   - Id: 6428
     AegisName: Bravery_Card_A
     Name: Adventure Card A
     Type: Etc
-      Override: 100
   - Id: 6429
     AegisName: Bravery_Card_B
     Name: Adventure Card B
     Type: Etc
-      Override: 100
   - Id: 6430
     AegisName: Picture_Piece
     Name: Picture Fragment
     Type: Etc
-      Override: 100
   - Id: 6431
     AegisName: Bucket
     Name: Pail
     Type: Etc
     Weight: 100
-      Override: 100
   - Id: 6432
     AegisName: Full_Bucket
     Name: Full Pail
     Type: Etc
     Weight: 3000
-      Override: 100
   - Id: 6433
     AegisName: Clean_Brush
     Name: Cleaning Brush
     Type: Etc
     Weight: 300
-      Override: 100
   - Id: 6434
     AegisName: Fix_Kit
     Name: Fix Kit
     Type: Etc
     Weight: 1000
-      Override: 100
   - Id: 6435
     AegisName: Fresh_Fruit
     Name: Fresh Fruit
     Type: Etc
     Weight: 100
-      Override: 100
   - Id: 6436
     AegisName: Ptotection_Seagod
     Name: Sea God's Call
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6437
     AegisName: Scaraba_Perfume
     Name: Scaraba Perfume
@@ -14015,31 +13808,26 @@ Body:
     Name: General Lubrication
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6441
     AegisName: High_RankLubricant
     Name: Advanced Lubrication
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6442
     AegisName: Octopus_Hunt_Stick
     Name: Octopus Hunting Skewer
     Type: Etc
-      Override: 100
   - Id: 6443
     AegisName: Sillit_Pong_Bottle
     Name: Sillit Pong Bottle
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6444
     AegisName: Emperium_G
     Name: Emperium G
     Type: Etc
     Buy: 2
     Weight: 1000
-      Override: 100
   - Id: 6445
     AegisName: Blue_Card_X
     Name: Blue Card X
@@ -14049,38 +13837,31 @@ Body:
     AegisName: Green_Paper
     Name: Green Paper
     Type: Etc
-      Override: 100
   - Id: 6447
     AegisName: Red_Paper
     Name: Red Paper
     Type: Etc
-      Override: 100
   - Id: 6448
     AegisName: White_Paper
     Name: White Paper
     Type: Etc
-      Override: 100
   - Id: 6449
     AegisName: Casual_Diary
     Name: Casual Diary
     Type: Etc
-      Override: 100
   - Id: 6450
     AegisName: Honest_Diary
     Name: Honest Diary
     Type: Etc
-      Override: 100
   - Id: 6451
     AegisName: Unknown_Fish
     Name: Unknown Fish
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6452
     AegisName: Etoile_Ring
     Name: Etoile Ring
     Type: Etc
-      Override: 100
   - Id: 6453
     AegisName: Undelivered_Gift
     Name: Undelivered Gift
@@ -14102,12 +13883,10 @@ Body:
     AegisName: Guarantee_Weapon_5Up
     Name: +5 Weapon Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6457
     AegisName: Guarantee_Armor_5Up
     Name: +5 Armor Refine Ticket
     Type: Etc
-      Override: 100
   - Id: 6459
     AegisName: Jae_Sinho_Unpo
     Name: Jae Sinho Unpo
@@ -14132,13 +13911,11 @@ Body:
     AegisName: Hate_Bundle
     Name: Hate Crate
     Type: Etc
-      Override: 100
   - Id: 6465
     AegisName: Guard_Coin
     Name: Guard Coin
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6466
     AegisName: Clean_Water
     Name: Clean Water
@@ -14211,7 +13988,6 @@ Body:
     AegisName: Event_coin
     Name: Poring Coin
     Type: Etc
-      Override: 100
   - Id: 6481
     AegisName: Holy_Rock_Piece
     Name: Holy Rock Piece
@@ -14229,7 +14005,6 @@ Body:
     Name: Enchant Book
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6485
     AegisName: BlueCard_2
     Name: Blue 2 Card
@@ -14250,13 +14025,11 @@ Body:
     Name: Thanks Invest Ticket
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6489
     AegisName: Cats_Invest_Certif
     Name: Cats Invest Certificate
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6490
     AegisName: Magic_Clay_Fragment
     Name: Magic Clay Fragment
@@ -14314,42 +14087,34 @@ Body:
     AegisName: Sharp_Bamboo
     Name: Sharpened Bamboo
     Type: Etc
-      Override: 100
   - Id: 6501
     AegisName: Salt_Bag
     Name: Salt Bag
     Type: Etc
-      Override: 100
   - Id: 6502
     AegisName: Silver_Cross
     Name: The Cross
     Type: Etc
-      Override: 100
   - Id: 6503
     AegisName: Soul_Protection
     Name: Spiritual Protection
     Type: Etc
-      Override: 100
   - Id: 6504
     AegisName: Cast_Iron_Caldron
     Name: Cast-Iron Caldron
     Type: Etc
-      Override: 100
   - Id: 6505
     AegisName: Purified_Bone
     Name: Purified Spirit Bone
     Type: Etc
-      Override: 100
   - Id: 6506
     AegisName: Memorial_Bouquet
     Name: Offering Bouquet
     Type: Etc
-      Override: 100
   - Id: 6507
     AegisName: Evil_Bone
     Name: Evil Spirit Bone
     Type: Etc
-      Override: 100
   - Id: 6508
     AegisName: Silver_Bracelet
     Name: Silver Bracelet
@@ -14420,12 +14185,10 @@ Body:
     AegisName: Collected_Samples
     Name: Collected Sample
     Type: Etc
-      Override: 100
   - Id: 6520
     AegisName: Lost_Belongings
     Name: Lost Belongings
     Type: Etc
-      Override: 100
   - Id: 6521
     AegisName: Royal_Certificate
     Name: Royal Certificate
@@ -14508,7 +14271,6 @@ Body:
     Name: Star Decor
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6537
     AegisName: Sky_Medal
     Name: Sky Medal
@@ -14523,59 +14285,48 @@ Body:
     AegisName: Old_Left_Lapine
     Name: Old Left Lapine
     Type: Etc
-      Override: 100
   - Id: 6540
     AegisName: Golden_Leaf
     Name: Golden Leaf
     Type: Etc
-      Override: 100
   - Id: 6541
     AegisName: Avant_Research_Data
     Name: Avant Research Data
     Type: Etc
-      Override: 100
   - Id: 6542
     AegisName: Star_Shape_Mushroom
     Name: Star Shape Mushroom
     Type: Etc
     Buy: 20
     Weight: 100
-      Override: 100
   - Id: 6543
     AegisName: Lv110_Achieved_Coin
     Name: Lv110 Achieved Coin
     Type: Etc
-      Override: 100
   - Id: 6544
     AegisName: Lv120_Achieved_Coin
     Name: Lv120 Achieved Coin
     Type: Etc
-      Override: 100
   - Id: 6545
     AegisName: Firm_Hair
     Name: Firm Hair
     Type: Etc
-      Override: 100
   - Id: 6546
     AegisName: Younger_Bro_Letter
     Name: Younger Bro Letter
     Type: Etc
-      Override: 100
   - Id: 6547
     AegisName: Stained_Research_Book
     Name: Stained Research Book
     Type: Etc
-      Override: 100
   - Id: 6548
     AegisName: Piece_Of_Lapine_Wing
     Name: Piece Of Lapine Wing
     Type: Etc
-      Override: 100
   - Id: 6549
     AegisName: Courtesy_Ticket
     Name: Courtesy Ticket
     Type: Etc
-      Override: 100
   - Id: 6550
     AegisName: Brownie_Ticket
     Name: Brownie Ticket
@@ -14590,28 +14341,23 @@ Body:
     AegisName: Mail_Package
     Name: Mail Package
     Type: Etc
-      Override: 100
   - Id: 6553
     AegisName: Leaf_Made_Wood
     Name: Leaf Made Wood
     Type: Etc
-      Override: 100
   - Id: 6554
     AegisName: Seed_Box
     Name: Seed Box
     Type: Etc
-      Override: 100
   - Id: 6555
     AegisName: Birthday_Candle
     Name: Birthday Candle
     Type: Etc
-      Override: 100
   - Id: 6556
     AegisName: Nespresso_Ticket
     Name: Nespresso Ticket
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6557
     AegisName: Fancy_Fairy_Wing
     Name: Fancy Fairy Wing
@@ -14646,12 +14392,10 @@ Body:
     AegisName: Tiny_Mouse_Tail
     Name: Tiny Mouse Tail
     Type: Etc
-      Override: 100
   - Id: 6563
     AegisName: Weeds
     Name: Weeds
     Type: Etc
-      Override: 100
   - Id: 6564
     AegisName: Captive_Hatchling
     Name: Captive Hatchling
@@ -14667,12 +14411,10 @@ Body:
     AegisName: Cacao99_Recipe
     Name: Cacao99 Recipe
     Type: Etc
-      Override: 100
   - Id: 6567
     AegisName: Choco_Drink_Recipe
     Name: Choco Drink Recipe
     Type: Etc
-      Override: 100
   - Id: 6581
     AegisName: Holy_Amulet
     Name: Holy Amulet
@@ -14692,7 +14434,6 @@ Body:
     AegisName: Cryptura_Hair_Coupon
     Name: Cryptura Hair Coupon
     Type: Etc
-      Override: 100
   - Id: 6594
     AegisName: Magic_Bronze_Bullion
     Name: Magic Bronze Bullion
@@ -14842,13 +14583,11 @@ Body:
     Name: High Energy Crystal
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6635
     AegisName: Blacksmith_Blessing
     Name: Blacksmith Blessing
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6636
     AegisName: STRStone_Top
     Name: STR Stone (Upper)
@@ -14964,22 +14703,18 @@ Body:
     AegisName: Needle_And_Thread
     Name: Needle And Thread
     Type: Etc
-      Override: 100
   - Id: 6655
     AegisName: Firm_Pumpkin
     Name: Firm Pumpkin
     Type: Etc
-      Override: 100
   - Id: 6656
     AegisName: Goast_Free_Charm
     Name: Goast Free Charm
     Type: Etc
-      Override: 100
   - Id: 6657
     AegisName: Memory_Of_Jack
     Name: Memory Of Jack
     Type: Etc
-      Override: 100
   - Id: 6658
     AegisName: Halloween_Coin
     Name: Halloween Coin
@@ -14989,45 +14724,38 @@ Body:
     Name: RWC Inicializer
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6671
     AegisName: Geffen_Coin_Magic_Tournament
     Name: Geffen Coin Magic Tournament
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6672
     AegisName: Shard_of_Gray
     Name: Shard of Gray
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6673
     AegisName: Bossnia_Tickets
     Name: Bossnia Tickets
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6674
     AegisName: GM_Coin
     Name: GM Coin
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6681
     AegisName: XMAS_Cookie
     Name: Christmas Cookie
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6682
     AegisName: Bag_Of_Selling_Goods
     Name: Bag Of Selling Goods
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6683
     AegisName: Dried_Flower
     Name: Dried Flower
@@ -15039,46 +14767,39 @@ Body:
     Name: Token Of Hero
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6685
     AegisName: Morocc_Certification
     Name: Morocc Certification
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6686
     AegisName: Brick
     Name: Brick
     Type: Etc
     Buy: 10
     Weight: 2000
-      Override: 100
   - Id: 6687
     AegisName: Rope__
     Name: Rope
     Type: Etc
     Buy: 10
     Weight: 2000
-      Override: 100
   - Id: 6688
     AegisName: Wood_
     Name: Wood
     Type: Etc
     Buy: 10
     Weight: 2000
-      Override: 100
   - Id: 6689
     AegisName: BurningSkin
     Name: Burning Bug Skin
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6690
     AegisName: YummyStem
     Name: Yummy Stem
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6691
     AegisName: BurningFeather
     Name: Burning Feather
@@ -15120,55 +14841,46 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 1000
-      Override: 100
   - Id: 6699
     AegisName: Faith_Silence
     Name: Faith Silence
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6700
     AegisName: White_Snake_Scale
     Name: White Snake Scale
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6701
     AegisName: Treasure_Dwarf
     Name: Treasure Dwarf
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6702
     AegisName: Sweat_Dwarf
     Name: Sweat Dwarf
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6703
     AegisName: Warrior_Tears
     Name: Warrior Tears
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6704
     AegisName: Warrior_Anger
     Name: Warrior Anger
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6705
     AegisName: Warrior_Certificate
     Name: Warrior Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6706
     AegisName: Guardian_Flowers
     Name: Guardian Flowers
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6707
     AegisName: Jeremy_Beauty_Coupon
     Name: Jeremy Beauty Coupon
@@ -15180,19 +14892,16 @@ Body:
     Name: Mana Crystal
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6709
     AegisName: Crisp_Silk
     Name: Crisp Silk
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6710
     AegisName: Tied_Snake
     Name: Tied Snake
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6712
     AegisName: Lovely_Stick
     Name: Lovely Stick
@@ -15201,19 +14910,16 @@ Body:
     AegisName: Heart_of_Soul
     Name: Heart of Soul
     Type: Etc
-      Override: 100
   - Id: 6714
     AegisName: Sheenas_Soul
     Name: Sheena's Soul
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6715
     AegisName: P_Of_Evil_Soul
     Name: Darklord Soulpiece
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6716
     AegisName: Cri_Stone
     Name: CRI Stone (Upper)
@@ -15243,37 +14949,31 @@ Body:
     Name: Delicious Clam Flesh
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6723
     AegisName: Delicious_Canned_Food
     Name: Delicious Canned Food
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6724
     AegisName: Savage_Box
     Name: Savage Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6725
     AegisName: Grand_Peco_Box
     Name: Grand Peco Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6726
     AegisName: Desert_Wolf_Box
     Name: Desert Wolf Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6727
     AegisName: Arranged_Photo_Album
     Name: Arranged Photo Album
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6732
     AegisName: Monster_Coin
     Name: Monster Coin
@@ -15284,7 +14984,6 @@ Body:
     Name: Tingly Feather
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6734
     AegisName: Unknown_Meal
     Name: Unknown Meal
@@ -15353,25 +15052,21 @@ Body:
     Name: Steel Artifact
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6747
     AegisName: Iron_Artifacts_
     Name: Steel Artifact
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6748
     AegisName: Excavator_Repoet
     Name: Daily Report He And His Team
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6749
     AegisName: Power_Control_Device
     Name: Operation Control Device
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6750
     AegisName: Failed_Engine
     Name: Failed Engine
@@ -15390,19 +15085,16 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6753
     AegisName: Sign_Of_Destruction
     Name: Token Of Destruction
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6754
     AegisName: Collected_Herb
     Name: Collected Medicinal Herbs
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6755
     AegisName: Contaminated_Magic
     Name: Contaminated Magic
@@ -15414,13 +15106,11 @@ Body:
     Name: Cohesive Energy
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6757
     AegisName: Memory_Record
     Name: The Memory Recorder
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 6762
     AegisName: Banana_Can
     Name: Banana Can
@@ -15445,22 +15135,18 @@ Body:
     AegisName: Ice_World_Ticket
     Name: Tickets Ice Kingdom
     Type: Etc
-      Override: 100
   - Id: 6767
     AegisName: Summer_Fes_Coin
     Name: Summer Festival Coins
     Type: Etc
-      Override: 100
   - Id: 6768
     AegisName: Red_Beans_Of_Ice
     Name: Shaved Ice For Red Beans
     Type: Etc
-      Override: 100
   - Id: 6769
     AegisName: Sweet_Rice_Cake
     Name: Sweet Bread
     Type: Etc
-      Override: 100
   - Id: 6770
     AegisName: Shark
     Name: Shark
@@ -15543,32 +15229,26 @@ Body:
     AegisName: Squid_Skewer
     Name: Squid Skewer
     Type: Etc
-      Override: 100
   - Id: 6785
     AegisName: Fantastic_Sauce
     Name: Source Of Fantasy
     Type: Etc
-      Override: 100
   - Id: 6786
     AegisName: Squid_Of_Bbq
     Name: Squid Barbecue
     Type: Etc
-      Override: 100
   - Id: 6787
     AegisName: Good_Firewood
     Name: Long Firewood
     Type: Etc
-      Override: 100
   - Id: 6788
     AegisName: Rose_Knife
     Name: Rose Knife
     Type: Etc
-      Override: 100
   - Id: 6789
     AegisName: Custom_Pan
     Name: Customized Plates
     Type: Etc
-      Override: 100
   - Id: 6790
     AegisName: BigStone_Top
     Name: Large Stone (Upper)
@@ -15625,87 +15305,74 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6814
     AegisName: Swordman_Soul
     Name: Swordman Soul
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6815
     AegisName: Merchant_Soul
     Name: Merchant Soul
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6816
     AegisName: Thief_Soul
     Name: Thief Soul
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6817
     AegisName: Mage_Soul
     Name: Mage Soul
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6818
     AegisName: Archer_Soul
     Name: Archer Soul
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6819
     AegisName: Acolyte_Soul
     Name: Acolyte Soul
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6820
     AegisName: Particles_Of_Energy
     Name: Energy Fragment
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 6821
     AegisName: Solo_Troops_Badge
     Name: Single Union Badge
     Type: Etc
-      Override: 100
   - Id: 6824
     AegisName: Lab_Memory_Record
     Name: Experimental Dong Memory Record
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6825
     AegisName: Air_Cleaner_Box
     Name: Air Cleaner Box
     Type: Etc
     Buy: 10
     Weight: 10000
-      Override: 100
   - Id: 6826
     AegisName: Fresh_Grapes
     Name: Fresh Grapes
     Type: Etc
     Buy: 10
     Weight: 100
-      Override: 100
   - Id: 6827
     AegisName: Normal_Parts
     Name: Complete Machine Parts
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6828
     AegisName: Gravity_Parts
     Name: Gravity Safety Device
@@ -15724,7 +15391,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6834
     AegisName: Legendary_Fur
     Name: Legendary Fur
@@ -15742,268 +15408,223 @@ Body:
     Name: Talisman Of Soul
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6837
     AegisName: Piece_Of_Soul_Mouse
     Name: Piece Of Soul Mouse
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6838
     AegisName: Secret_Orders_Of_Prophet_K
     Name: Secret Orders Of Prophet K
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6839
     AegisName: Gold_Choco_Coin
     Name: Gold Choco Coin
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6840
     AegisName: Silver_Choco_Coin
     Name: Silver Choco Coin
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6841
     AegisName: Bronze_Choco_Coin
     Name: Bronze Choco Coin
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6842
     AegisName: Huge_Jewery
     Name: Huge Jewery
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6843
     AegisName: Thin_Ring
     Name: Thin Ring
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6844
     AegisName: Mild_Stone
     Name: Mild Stone
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6845
     AegisName: That_Thing
     Name: That Thing
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6846
     AegisName: Limited_Gym_Membership_Card
     Name: (Limited)Gym Membership Card
     Type: Card
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6847
     AegisName: Very_Small_Box
     Name: Very Small Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6848
     AegisName: Light_Box
     Name: Light Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6849
     AegisName: Request_Complete_Certificate
     Name: Request Complete Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6850
     AegisName: Questionable_Box
     Name: Questionable Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6851
     AegisName: Questionable_Document
     Name: Questionable Document
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6852
     AegisName: Super_Corrector
     Name: Super Corrector
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6853
     AegisName: Thanks_Bouquet
     Name: Thanks Bouquet
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6854
     AegisName: Novus_Captured
     Name: Novus Captured
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6855
     AegisName: Tatacho_Captured
     Name: Tatacho Captured
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6856
     AegisName: Manuscript_Written_By_Pigoreum
     Name: Manuscript Written By Pigoreum
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6857
     AegisName: Very_Hard_Stone
     Name: Very Hard Stone
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6858
     AegisName: Lude_Captured
     Name: Lude Captured
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6859
     AegisName: Wanderer_Captured
     Name: Wanderer Captured
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6860
     AegisName: Piece_Of_Soul_Cow
     Name: Piece Of Soul Cow
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6862
     AegisName: Piece_Of_Soul_Tiger
     Name: Piece Of Soul Tiger
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6863
     AegisName: Strong_Piece_Of_Soul_Tiger
     Name: Strong Piece Of Soul Tiger
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6864
     AegisName: Safe_to_19_Weapon_Certificate
     Name: Safe to 19 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6865
     AegisName: Safe_to_19_Armor_Certificate
     Name: Safe to 19 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6866
     AegisName: Piece_Of_Soul_Rabbit
     Name: Piece Of Soul Rabbit
     Type: Etc
-      Override: 100
   - Id: 6867
     AegisName: Large_Insect_Barrel
     Name: Large Insect Barrel
     Type: Etc
-      Override: 100
   - Id: 6868
     AegisName: Medium_Insect_Barrel
     Name: Medium Insect Barrel
     Type: Etc
-      Override: 100
   - Id: 6869
     AegisName: Dust
     Name: Dust
     Type: Etc
-      Override: 100
   - Id: 6870
     AegisName: Safe_to_13_Weapon_Certificate
     Name: Safe to 13 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6871
     AegisName: Safe_to_14_Weapon_Certificate
     Name: Safe to 14 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6872
     AegisName: Safe_to_15_Weapon_Certificate
     Name: Safe to 15 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6873
     AegisName: Safe_to_16_Weapon_Certificate
     Name: Safe to 16 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6874
     AegisName: Safe_to_17_Weapon_Certificate
     Name: Safe to 17 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6875
     AegisName: Safe_to_18_Weapon_Certificate
     Name: Safe to 18 Weapon Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6876
     AegisName: Safe_to_13_Armor_Certificate
     Name: Safe to 13 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6877
     AegisName: Safe_to_14_Armor_Certificate
     Name: Safe to 14 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6878
     AegisName: Safe_to_15_Armor_Certificate
     Name: Safe to 15 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6879
     AegisName: Safe_to_16_Armor_Certificate
     Name: Safe to 16 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6880
     AegisName: Safe_to_17_Armor_Certificate
     Name: Safe to 17 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6881
     AegisName: Safe_to_18_Armor_Certificate
     Name: Safe to 18 Armor Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6882
     AegisName: Advanced_Bait
     Name: Advanced Bait
@@ -16015,26 +15636,22 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6884
     AegisName: Pet_Tikbalang_Exchange_Ticket
     Name: Pet Tikbalang Exchange Ticket
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6885
     AegisName: Piece_Of_Soul_Dragon
     Name: Piece Of Soul Dragon
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6886
     AegisName: Strong_Piece_Of_Soul_Dragon
     Name: Strong Piece Of Soul Dragon
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6892
     AegisName: Invasion_Plan
     Name: Invasion Plan
@@ -16103,7 +15720,6 @@ Body:
     Name: Piece Of Soul Snake
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6905
     AegisName: Broken_Magic_Stone
     Name: Broken Magic Stone
@@ -16115,13 +15731,11 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 6907
     AegisName: Piece_Of_Soul_Horse
     Name: Piece Of Soul Horse
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6908
     AegisName: ASPDStone_Robe
     Name: Stone ASPD (Garment)
@@ -16135,70 +15749,59 @@ Body:
     Name: Actinidia Cat Fruit
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6910
     AegisName: Limited_Purified_Oridecon
     Name: (Limited) Purified Oridecon
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6911
     AegisName: Limited_Purified_Eluminium
     Name: (Limited) Purified Eluminium
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6912
     AegisName: Piece_Of_Soul_Sheep
     Name: Piece Of Soul Sheep
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6913
     AegisName: Holy_Rosary
     Name: Holy Rosary
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6914
     AegisName: Black_Horn
     Name: Black Horn
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6915
     AegisName: Captured_Soul
     Name: Captured Soul
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6916
     AegisName: Piece_Of_Soul_Monkey
     Name: Piece Of Soul Monkey
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6917
     AegisName: Piece_Of_Soul_Chicken
     Name: Piece Of Soul Chicken
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6919
     AegisName: TokenOfHonor
     Name: Honor Token
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6920
     AegisName: Rune_Magic_Powder
     Name: Rune Magic Powder
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6921
     AegisName: Dehumidifiers
     Name: Dehumidifiers
@@ -16217,7 +15820,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6924
     AegisName: Red_Eye
     Name: Red Eye
@@ -16229,68 +15831,57 @@ Body:
     Name: Letter Of Prisoner
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6926
     AegisName: Midgards_Histories
     Name: Rune-Midgarts History Book
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6927
     AegisName: Stone_That_Contained_Sea
     Name: Stone That Contained Sea
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6928
     AegisName: Poring_Scourer
     Name: Poring Scourer
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6929
     AegisName: Letter_With_Stamped_Seal
     Name: Letter With Stamped Seal
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6930
     AegisName: Samples_New_Business_Items
     Name: Samples New Business Items
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6931
     AegisName: Secret_Documents
     Name: Secret Documents
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6932
     AegisName: Rare_Book
     Name: Rare Book
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6933
     AegisName: Banquet_Invitation_Letter
     Name: Banquet Invitation Letter
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6934
     AegisName: Magnificent_Dish
     Name: Magnificent Dish
     Type: Etc
     Buy: 10
     Weight: 1000
-      Override: 100
   - Id: 6935
     AegisName: Advanced_Dish
     Name: Advanced Dish
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6936
     AegisName: Cold_Core
     Name: Cold Core
@@ -16392,7 +15983,6 @@ Body:
     Name: Ramor Refine Ticket
     Type: Etc
     Buy: 10
-      Override: 100
     Script: |
       /*Refine succeed guarantee until +9 for item 2598 only*/
   - Id: 6954
@@ -16400,25 +15990,21 @@ Body:
     Name: Piece Of Soul Dog
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6955
     AegisName: Piece_Of_Soul_Pig
     Name: Piece Of Soul Pig
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6956
     AegisName: Captured_Sheep
     Name: Captured Sheep
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6957
     AegisName: Lamb_Fleece
     Name: Lamb Fleece
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 6958
     AegisName: Lamb_Horns
     Name: Lamb Horns
@@ -16430,7 +16016,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 6961
     AegisName: LargeScrap
     Name: Huge Metal Scrap
@@ -16721,7 +16306,6 @@ Body:
     Type: Etc
     Buy: 30000
     Weight: 50
-      Override: 100
   - Id: 7026
     AegisName: Key_Of_Clock_Tower
     Name: Key of Clock Tower
@@ -16913,19 +16497,16 @@ Body:
     Name: Free Ticket for Kafra Storage
     Type: Etc
     Buy: 1
-      Override: 100
   - Id: 7060
     AegisName: Warp_Free_Ticket
     Name: Free Ticket for Kafra Transportation
     Type: Etc
     Buy: 1
-      Override: 100
   - Id: 7061
     AegisName: Cart_Free_Ticket
     Name: Free Ticket for the Cart Service
     Type: Etc
     Buy: 1
-      Override: 100
   - Id: 7062
     AegisName: Broken_Turtle_Shell
     Name: Broken Turtle Shell
@@ -17400,7 +16981,6 @@ Body:
     Type: Etc
     Buy: 60000
     Weight: 10
-      Override: 100
   - Id: 7141
     AegisName: Yggdrasilberry_Dew
     Name: Morning Dew of Yggdrasil
@@ -17581,7 +17161,6 @@ Body:
     Type: Etc
     Buy: 43000
     Weight: 10
-      Override: 100
   - Id: 7171
     AegisName: Leopard_Skin
     Name: Leopard Skin
@@ -17618,12 +17197,10 @@ Body:
     AegisName: Part_Of_Star's_Sob
     Name: Crumb of Sobbing Starlight
     Type: Etc
-      Override: 100
   - Id: 7178
     AegisName: Star's_Sob
     Name: Sobbing Starlight
     Type: Etc
-      Override: 100
   - Id: 7179
     AegisName: Donation_Card
     Name: Proof of Donation
@@ -17742,7 +17319,6 @@ Body:
     Name: Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7200
     AegisName: Flexible_String
     Name: Elastic Band
@@ -18167,12 +17743,10 @@ Body:
     Name: Record of Ancient Language
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7276
     AegisName: Picture_Letter
     Name: Doodled Message
     Type: Etc
-      Override: 100
   - Id: 7277
     AegisName: Munak_Doll
     Name: Munak Doll
@@ -18332,32 +17906,26 @@ Body:
     AegisName: Witch's_Spell_Book
     Name: Witch's Spell Scroll
     Type: Etc
-      Override: 100
   - Id: 7305
     AegisName: Authority_Of_Nine_World
     Name: Symbol of the Nine Realms
     Type: Etc
-      Override: 100
   - Id: 7306
     AegisName: Fragment_Of_Soul
     Name: Piece of Spirit
     Type: Etc
-      Override: 100
   - Id: 7307
     AegisName: Whisper_Of_Soul
     Name: Spiritual Whispers
     Type: Etc
-      Override: 100
   - Id: 7308
     AegisName: Witch's_Potion
     Name: Witch's Tonic
     Type: Etc
-      Override: 100
   - Id: 7309
     AegisName: Wing_Of_Crow
     Name: Crow Wing
     Type: Etc
-      Override: 100
   - Id: 7310
     AegisName: Free_Peco_Ticket
     Name: Free Ticket for Peco Ride
@@ -18385,7 +17953,6 @@ Body:
     Name: The Sign
     Type: Etc
     Buy: 2
-      Override: 100
   - Id: 7315
     AegisName: Dark_Crystal_Fragment
     Name: Dark Crystal Fragment
@@ -18483,27 +18050,22 @@ Body:
     AegisName: Slate
     Name: Complete Tablet
     Type: Etc
-      Override: 100
   - Id: 7333
     AegisName: Piece_Of_Slate_1
     Name: Prontera Tablet
     Type: Etc
-      Override: 100
   - Id: 7334
     AegisName: Piece_Of_Slate_2
     Name: Payon Tablet
     Type: Etc
-      Override: 100
   - Id: 7335
     AegisName: Piece_Of_Slate_3
     Name: Morocc Tablet
     Type: Etc
-      Override: 100
   - Id: 7336
     AegisName: Piece_Of_Slate_4
     Name: Geffen Tablet
     Type: Etc
-      Override: 100
   - Id: 7337
     AegisName: Eye_Of_Hellion
     Name: Eye of Hellion
@@ -18516,7 +18078,6 @@ Body:
     AegisName: RO_Transportation_Card_
     Name: Commemorative Travel Card
     Type: Etc
-      Override: 100
   - Id: 7340
     AegisName: Will_Of_Darkness
     Name: Will of the Darkness
@@ -18528,25 +18089,21 @@ Body:
     Name: Old Pendant
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7342
     AegisName: File01
     Name: File Folder
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7343
     AegisName: File02
     Name: Sealed File Folder
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7344
     AegisName: File03
     Name: Shinokas Case File
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7345
     AegisName: Armlet_Of_Prisoner
     Name: Handcuffs
@@ -18558,7 +18115,6 @@ Body:
     Name: Ymir's Heart Piece
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7347
     AegisName: Lab_Staff_Record
     Name: Research Chart
@@ -18576,7 +18132,6 @@ Body:
     Name: Archive Permit
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7350
     AegisName: Pass
     Name: Pass
@@ -18588,7 +18143,6 @@ Body:
     Name: Friend's Diary
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7352
     AegisName: Transparent_Plate01
     Name: Transparent Plate
@@ -18682,7 +18236,6 @@ Body:
     Name: Lotto Ball 08
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7369
     AegisName: Lotto09
     Name: Lotto Ball 09
@@ -18939,17 +18492,14 @@ Body:
     AegisName: Letter_Of_Recommend
     Name: Letter of Recommendation
     Type: Etc
-      Override: 100
   - Id: 7417
     AegisName: Mission_ScrollA
     Name: Written Request(A)
     Type: Etc
-      Override: 100
   - Id: 7418
     AegisName: Mission_ScrollB
     Name: Written Request(B)
     Type: Etc
-      Override: 100
   - Id: 7419
     AegisName: Embryo_HandBook
     Name: Embryo Creation Guide
@@ -18960,67 +18510,54 @@ Body:
     AegisName: Skull_
     Name: Skull
     Type: Etc
-      Override: 100
   - Id: 7421
     AegisName: Key_Red
     Name: Red Key
     Type: Etc
-      Override: 100
   - Id: 7422
     AegisName: Key_Yellow
     Name: Yellow Key
     Type: Etc
-      Override: 100
   - Id: 7423
     AegisName: Key_Blue
     Name: Blue Key
     Type: Etc
-      Override: 100
   - Id: 7424
     AegisName: Key_Green
     Name: Green Key
     Type: Etc
-      Override: 100
   - Id: 7425
     AegisName: Key_Black
     Name: Black Key
     Type: Etc
-      Override: 100
   - Id: 7426
     AegisName: Magic_Gem_Red
     Name: Red Charm Stone
     Type: Etc
-      Override: 100
   - Id: 7427
     AegisName: Magic_Gem_Yellow
     Name: Yellow Charm Stone
     Type: Etc
-      Override: 100
   - Id: 7428
     AegisName: Magic_Gem_Blue
     Name: Blue Charm Stone
     Type: Etc
-      Override: 100
   - Id: 7429
     AegisName: Magic_Gem_Green
     Name: Green Charm Stone
     Type: Etc
-      Override: 100
   - Id: 7430
     AegisName: Magic_Gem_Black
     Name: Black Charm Stone
     Type: Etc
-      Override: 100
   - Id: 7431
     AegisName: Several_Books
     Name: Pile of Books
     Type: Etc
-      Override: 100
   - Id: 7432
     AegisName: Leather_Pouch
     Name: Leather Pouch
     Type: Etc
-      Override: 100
   - Id: 7433
     AegisName: Scroll
     Name: Blank Scroll
@@ -19319,119 +18856,96 @@ Body:
     Name: Symbol of a Brave Warrior
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7485
     AegisName: 2nd_Floor_Pass
     Name: Cloud General
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7486
     AegisName: 3rd_Floor_Pass
     Name: Wind General
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7487
     AegisName: Tavern_Wine
     Name: Culinary Wine
     Type: Etc
-      Override: 100
   - Id: 7488
     AegisName: Delivery_Box
     Name: Delivery Package
     Type: Etc
-      Override: 100
   - Id: 7489
     AegisName: Villa_Spare_Key
     Name: Cottage Key
     Type: Etc
-      Override: 100
   - Id: 7490
     AegisName: Kyll_Hire_Letter
     Name: Letter to Elly
     Type: Etc
-      Override: 100
   - Id: 7491
     AegisName: Iron_Box
     Name: Steel Box
     Type: Etc
-      Override: 100
   - Id: 7492
     AegisName: Yellow_Key_Card
     Name: Yellow Keycard
     Type: Etc
-      Override: 100
   - Id: 7493
     AegisName: Golden_Key
     Name: Golden Key
     Type: Etc
-      Override: 100
   - Id: 7494
     AegisName: Kiel_Button
     Name: Luxurious Button
     Type: Etc
-      Override: 100
   - Id: 7495
     AegisName: Blue_Key_Card
     Name: Blue Keycard
     Type: Etc
-      Override: 100
   - Id: 7496
     AegisName: Red_Key_Card
     Name: Red Keycard
     Type: Etc
-      Override: 100
   - Id: 7497
     AegisName: Steel_Piece
     Name: Metal Fragment
     Type: Etc
-      Override: 100
   - Id: 7498
     AegisName: Rosimier_Key
     Name: Rosimier Mansion Keys
     Type: Etc
-      Override: 100
   - Id: 7499
     AegisName: Family_Portrait
     Name: Family Portrait
     Type: Etc
-      Override: 100
   - Id: 7500
     AegisName: Elysia_Portrait
     Name: Woman's Portrait
     Type: Etc
-      Override: 100
   - Id: 7501
     AegisName: Kyll_Hire_Letter2
     Name: K.H's Letter
     Type: Etc
-      Override: 100
   - Id: 7502
     AegisName: Piece_Memo_Of_James
     Name: James's Note
     Type: Etc
-      Override: 100
   - Id: 7503
     AegisName: Man_Portrait
     Name: Man's Portrait
     Type: Etc
-      Override: 100
   - Id: 7504
     AegisName: Toy_Motor
     Name: Power Device
     Type: Etc
-      Override: 100
   - Id: 7505
     AegisName: Toy_Key
     Name: Toy Key
     Type: Etc
-      Override: 100
   - Id: 7506
     AegisName: Black_Key_Card
     Name: Black Keycard
     Type: Etc
-      Override: 100
   - Id: 7507
     AegisName: Sturdy_Iron_Piece
     Name: Solid Iron Piece
@@ -19442,12 +18956,10 @@ Body:
     AegisName: Elysia_Ring
     Name: Allysia's Ring
     Type: Etc
-      Override: 100
   - Id: 7509
     AegisName: Fancy_Key_Card
     Name: Luxurious Keycard
     Type: Etc
-      Override: 100
   - Id: 7510
     AegisName: Valhalla_Flower
     Name: Valhalla's Flower
@@ -19477,18 +18989,15 @@ Body:
     Name: Monster Ticket
     Type: Etc
     Buy: 2
-      Override: 100
   - Id: 7515
     AegisName: Marvelous_Medal
     Name: Prize Medal
     Type: Etc
     Buy: 2
-      Override: 100
   - Id: 7516
     AegisName: Green_Key_Card
     Name: Green Keycard
     Type: Etc
-      Override: 100
   - Id: 7517
     AegisName: Gold_Coin_
     Name: Gold Coin
@@ -19500,7 +19009,6 @@ Body:
     Name: Women's Medal
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7519
     AegisName: Money_Envelope
     Name: Handsel
@@ -19551,7 +19059,6 @@ Body:
     Name: Book About True Life
     Type: Etc
     Weight: 100
-      Override: 100
   - Id: 7528
     AegisName: Id_Lottery_Ticket
     Name: Lottery Ticket
@@ -19564,52 +19071,42 @@ Body:
     AegisName: Travel_Brochure_01
     Name: Travel Brochure [Amatsu]
     Type: Etc
-      Override: 100
   - Id: 7531
     AegisName: Travel_Brochure_02
     Name: Travel Brochure [Kunlun]
     Type: Etc
-      Override: 100
   - Id: 7532
     AegisName: Travel_Brochure_03
     Name: Travel Brochure [Luoyang]
     Type: Etc
-      Override: 100
   - Id: 7533
     AegisName: Travel_Brochure_04
     Name: Travel Brochure [Ayothaya]
     Type: Etc
-      Override: 100
   - Id: 7534
     AegisName: Photo_Album_01
     Name: Amatsu Completed Photo Album
     Type: Etc
-      Override: 100
   - Id: 7535
     AegisName: Photo_Album_02
     Name: Kunlun Completed Photo Album
     Type: Etc
-      Override: 100
   - Id: 7536
     AegisName: Photo_Album_03
     Name: Luoyang Completed Photo Album
     Type: Etc
-      Override: 100
   - Id: 7537
     AegisName: Photo_Album_04
     Name: Ayothaya Completed Photo Album
     Type: Etc
-      Override: 100
   - Id: 7538
     AegisName: Sifted_Sand
     Name: Sand for Work
     Type: Etc
-      Override: 100
   - Id: 7539
     AegisName: Poring_Coin
     Name: Poring Coin
     Type: Etc
-      Override: 100
   - Id: 7540
     AegisName: Lotto39
     Name: Lotto Ball 39
@@ -19651,77 +19148,64 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7548
     AegisName: Soccer_Shoes
     Name: Soccer Shoes
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7549
     AegisName: Brazilian_Flag
     Name: Brazilian Flag
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7550
     AegisName: Ticket01
     Name: 6.13 Ticket
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7551
     AegisName: Ticket02
     Name: 6.18 Ticket
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7552
     AegisName: Ticket03
     Name: 6.22 Ticket
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7553
     AegisName: Lotus_Flower
     Name: Lotus Flower
     Type: Etc
-      Override: 100
   - Id: 7554
     AegisName: Striped_Candle
     Name: Striped Candle
     Type: Etc
-      Override: 100
   - Id: 7555
     AegisName: Green_Incense
     Name: Green Incense
     Type: Etc
-      Override: 100
   - Id: 7556
     AegisName: Longing_Heart
     Name: Longing Heart
     Type: Etc
-      Override: 100
   - Id: 7557
     AegisName: Invitation_Letter
     Name: Invitation Letter
     Type: Etc
-      Override: 100
   - Id: 7558
     AegisName: Invitation_Ticket
     Name: Invitation Ticket
     Type: Etc
-      Override: 100
   - Id: 7559
     AegisName: Key_Of_Flower_Garden
     Name: Key to the Secret Garden
     Type: Etc
-      Override: 100
   - Id: 7560
     AegisName: Longing_Heart2
     Name: Longing Heart
@@ -19778,7 +19262,6 @@ Body:
     AegisName: Hammer_Of_Wind
     Name: Wind Hammer
     Type: Etc
-      Override: 100
   - Id: 7570
     AegisName: Temple_Lottery_Ticket
     Name: Temple Lottery Ticket
@@ -19792,12 +19275,10 @@ Body:
     AegisName: Magic_Necklace
     Name: Ashy Necklace
     Type: Etc
-      Override: 100
   - Id: 7573
     AegisName: Magic_Necklace_
     Name: Sparkling Necklace
     Type: Etc
-      Override: 100
   - Id: 7574
     AegisName: Ice_Particle
     Name: Freezing Snow Powder
@@ -19807,20 +19288,17 @@ Body:
     Name: Red Jewel
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7576
     AegisName: Blue_Jewel_
     Name: Blue Jewel
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7577
     AegisName: Golden_Jewel_
     Name: Yellow Jewel
     Type: Etc
     Buy: 20
     Weight: 50
-      Override: 100
   - Id: 7578
     AegisName: Anti_Spell_Bead
     Name: Countermagic Crystal
@@ -19833,14 +19311,12 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7580
     AegisName: Black_Bead
     Name: Black Marble
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7581
     AegisName: Anniversary_Ticket
     Name: Celebration Document
@@ -19859,42 +19335,36 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7584
     AegisName: Proof_Of_Guard1
     Name: Guard's First Proof
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7585
     AegisName: Proof_Of_Guard2
     Name: Guard's Second Proof
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7586
     AegisName: Proof_Of_Guard3
     Name: Guard's Third Proof
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7587
     AegisName: Proof_Of_Guard4
     Name: Guard's Fourth Proof
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7588
     AegisName: IPOD_Ticker
     Name: IPOD Coupon
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7589
     AegisName: Moon_Cake10
     Name: Lettered Moon Snack 01
@@ -19979,7 +19449,6 @@ Body:
     Name: RO Party Invitation Ticket
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7604
     AegisName: Flour
     Name: Flour
@@ -20040,7 +19509,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7615
     AegisName: MVP_Ticket
     Name: MVP Voucher
@@ -20065,40 +19533,34 @@ Body:
     Type: Etc
     Buy: 2
     Weight: 100
-      Override: 100
   - Id: 7619
     AegisName: Enriched_Elunium
     Name: Enriched Elunium
     Type: Etc
     Buy: 2
     Weight: 10
-      Override: 100
   - Id: 7620
     AegisName: Enriched_Oridecon
     Name: Enriched Oridecon
     Type: Etc
     Buy: 2
     Weight: 10
-      Override: 100
   - Id: 7621
     AegisName: Token_Of_Siegfried
     Name: Token Of Siegfried
     Type: Etc
     Buy: 2
     Weight: 10
-      Override: 100
   - Id: 7622
     AegisName: New_Style_Coupon
     Name: Hairstyle Coupon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7623
     AegisName: Name_Change_Coupon
     Name: Ticket Of Identification
     Type: Etc
     Buy: 2
-      Override: 100
   - Id: 7624
     AegisName: Spring_Stanza23
     Name: Spring Stanza23
@@ -20109,7 +19571,6 @@ Body:
     AegisName: Registration_Ticket
     Name: Registration Ticket
     Type: Etc
-      Override: 100
   - Id: 7626
     AegisName: Bubble_Gum_Token
     Name: Bubble Gum Token
@@ -20132,12 +19593,10 @@ Body:
     AegisName: Clean_Beach_Brush
     Name: Clean Beach Brush
     Type: Etc
-      Override: 100
   - Id: 7631
     AegisName: Trash_Debris
     Name: Trash Debris
     Type: Etc
-      Override: 100
   - Id: 7632
     AegisName: To_Afterworld_Record
     Name: Terrible Report Card
@@ -20185,7 +19644,6 @@ Body:
     Name: Medical Cure Box
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7642
     AegisName: Bloody_Coin
     Name: Bloody Coin
@@ -20320,14 +19778,12 @@ Body:
     Name: Special Exchange Coupons
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7701
     AegisName: Dragon_Spirit
     Name: Soul
     Type: Etc
     Buy: 2
     Weight: 10
-      Override: 100
   - Id: 7702
     AegisName: Special_Cogwheel
     Name: Special Cogwheel
@@ -20345,13 +19801,11 @@ Body:
     Name: Broken Thermometer
     Type: Etc
     Buy: 2
-      Override: 100
   - Id: 7705
     AegisName: Note_Of_Geologist
     Name: Note of Geologist
     Type: Etc
     Buy: 2
-      Override: 100
   - Id: 7706
     AegisName: Spoiled_Carrot_Juice
     Name: Broken Carrot Juice
@@ -20406,17 +19860,14 @@ Body:
     AegisName: Handmade_Choco_Recipe
     Name: Handmade Chocolate Recipe
     Type: Etc
-      Override: 100
   - Id: 7716
     AegisName: Strawberry_Choco_Recipe
     Name: Chocolate Strawberry Recipe
     Type: Etc
-      Override: 100
   - Id: 7717
     AegisName: Choco_Tart_Recipe
     Name: Chocolate Tart Recipe
     Type: Etc
-      Override: 100
   - Id: 7718
     AegisName: Cacao_Bean
     Name: Cacao Bean
@@ -20433,7 +19884,6 @@ Body:
     Type: Etc
     Buy: 100
     Weight: 10
-      Override: 100
   - Id: 7721
     AegisName: Treasure_Box_
     Name: Treasure Box
@@ -20445,120 +19895,100 @@ Body:
     Name: Debt Note
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7723
     AegisName: Diamond_Of_Ruin
     Name: Diamond of Ruin
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7724
     AegisName: Forbidden_Secret_Art
     Name: Forbidden Secret Art
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7725
     AegisName: Unlucky_Emerald
     Name: Unlucky Emerald
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7726
     AegisName: Token_Of_King
     Name: Token of King
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7727
     AegisName: HP_Doctor_Ticket
     Name: HP Doctor Ticket
     Type: Etc
-      Override: 100
   - Id: 7728
     AegisName: SP_Doctor_Ticket
     Name: SP Doctor Ticket
     Type: Etc
-      Override: 100
   - Id: 7729
     AegisName: Rok_Star_Badge
     Name: Rok Star Badge
     Type: Etc
     Buy: 20
     Weight: 100
-      Override: 100
   - Id: 7730
     AegisName: Mission_Certificate1
     Name: Mission Ticket 1
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7731
     AegisName: Mission_Certificate2
     Name: Mission Ticket 2
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7732
     AegisName: Mission_Certificate3
     Name: Mission Ticket 3
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7733
     AegisName: Mission_Certificate4
     Name: Mission Ticket 4
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7734
     AegisName: Mission_Certificate5
     Name: Mission Ticket 5
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7735
     AegisName: Mission_Certificate6
     Name: Mission Ticket 6
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7736
     AegisName: Mission_Certificate7
     Name: Mission Ticket 7
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7737
     AegisName: Mission_Certificate8
     Name: Mission Ticket 8
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7738
     AegisName: Mission_Certificate9
     Name: Mission Ticket 9
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7739
     AegisName: Mission_Certificate10
     Name: Mission Ticket 10
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7740
     AegisName: Mission_Certificate11
     Name: Mission Ticket 11
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7741
     AegisName: Mission_Certificate12
     Name: Mission Ticket 12
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7742
     AegisName: Kaong
     Name: Kaong
@@ -20642,7 +20072,6 @@ Body:
     Name: Research Note
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7756
     AegisName: Sealed_Book
     Name: Sealed Book
@@ -20666,7 +20095,6 @@ Body:
     Name: Geologist's Report
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 7760
     AegisName: Yaga_Magic_Book
     Name: Yaga's Magic Book
@@ -20691,35 +20119,30 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7764
     AegisName: High_Strength_Adhesive
     Name: High Strength Adhesive
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7765
     AegisName: Yaga_Secret_Medicine
     Name: Baba Yaga's Secret Medicine
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7766
     AegisName: Bok_Choy
     Name: Bok Choy
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7767
     AegisName: Chung_E_Cake
     Name: Green Maiden's Cake
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7768
     AegisName: Squid
     Name: Squid
@@ -20749,7 +20172,6 @@ Body:
     AegisName: War_Badge
     Name: Wat Badge
     Type: Etc
-      Override: 100
   - Id: 7774
     AegisName: Chung_E_Ticket
     Name: Green Maiden Ticket
@@ -20760,13 +20182,11 @@ Body:
     Name: Spring Rabbit Ticket
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7776
     AegisName: Max_Weight_Up_Scroll
     Name: Gym Pass
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7777
     AegisName: Gold_Box
     Name: Sealed Golden Box
@@ -20782,13 +20202,11 @@ Body:
     Name: Golden Key
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7780
     AegisName: Silver_Key
     Name: Silver Key
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7781
     AegisName: Heart_Box
     Name: Engrave Treasure Box
@@ -20809,49 +20227,41 @@ Body:
     Name: Free Coupon 1
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7785
     AegisName: Fawner_Coupon2
     Name: Free Coupon 2
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7786
     AegisName: Fawner_Coupon3
     Name: Free Coupon 3
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7787
     AegisName: Fawner_Coupon4
     Name: Free Coupon 4
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7788
     AegisName: Fawner_Coupon5
     Name: Free Coupon 5
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7789
     AegisName: Fawner_Coupon6
     Name: Free Coupon 6
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7790
     AegisName: Fawner_Coupon7
     Name: Free Coupon 7
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7791
     AegisName: Fawner_Coupon8
     Name: Free Coupon 8
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7792
     AegisName: Guyak
     Name: Guyak
@@ -20861,12 +20271,10 @@ Body:
     AegisName: Golden_Apple
     Name: Golden Apple
     Type: Etc
-      Override: 100
   - Id: 7794
     AegisName: Fate_Of_Crow
     Name: The Crow of Destiny
     Type: Etc
-      Override: 100
   - Id: 7795
     AegisName: Mami_Photo_Album
     Name: Mammi's Photo Album
@@ -20901,23 +20309,19 @@ Body:
     AegisName: Golden_Apple_
     Name: Golden Charm Apple
     Type: Etc
-      Override: 100
   - Id: 7801
     AegisName: Girl_Fan_Letter
     Name: Girl's Letter
     Type: Etc
-      Override: 100
   - Id: 7802
     AegisName: Autograph_Book
     Name: Signature Notebook
     Type: Etc
-      Override: 100
   - Id: 7803
     AegisName: Battle_Manual_TW
     Name: Beginner's Field Manual
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7805
     AegisName: Brown_Ring
     Name: Brown Jenoss's Family Ring
@@ -20997,28 +20401,24 @@ Body:
     AegisName: Morroc_Skin
     Name: Piece of Morocc Skin
     Type: Etc
-      Override: 100
   - Id: 7821
     AegisName: Green_Apple
     Name: Green Apple
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7822
     AegisName: Whole_Barbecue
     Name: Whole Barbecue
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7823
     AegisName: Meat_Veg_Skewer
     Name: Meat Veg Skewer
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7824
     AegisName: Spirit_Liquor
     Name: Spirit Liquor
@@ -21031,27 +20431,22 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7826
     AegisName: Continental_Guard_Paper
     Name: Continental Guard Paper
     Type: Etc
-      Override: 100
   - Id: 7827
     AegisName: Mineral_Report
     Name: Mineral Evals
     Type: Etc
-      Override: 100
   - Id: 7828
     AegisName: BF_Badge1
     Name: Bravery Badge
     Type: Etc
-      Override: 100
   - Id: 7829
     AegisName: BF_Badge2
     Name: Valor Badge
     Type: Etc
-      Override: 100
   - Id: 7830
     AegisName: Goddess_Tear
     Name: Goddess Tear
@@ -21110,32 +20505,26 @@ Body:
     AegisName: Crystal_Key
     Name: Crystal Key
     Type: Etc
-      Override: 100
   - Id: 7840
     AegisName: Valkyrie_Gift
     Name: Valkyrie's Gift
     Type: Etc
-      Override: 100
   - Id: 7841
     AegisName: Spotted_Paper
     Name: Stained Piece Of Paper
     Type: Etc
-      Override: 100
   - Id: 7842
     AegisName: Torn_Paper
     Name: Torn Piece Of Paper
     Type: Etc
-      Override: 100
   - Id: 7843
     AegisName: Old_Paper
     Name: Old Piece Of Paper
     Type: Etc
-      Override: 100
   - Id: 7844
     AegisName: Burnt_Paper
     Name: Burnt Pieces Of Paper
     Type: Etc
-      Override: 100
   - Id: 7845
     AegisName: Copy_Of_Spotted_Paper
     Name: Copy Of Spotted Paper
@@ -21242,7 +20631,6 @@ Body:
     Type: Etc
     Buy: 20
     Weight: 200
-      Override: 100
   - Id: 7864
     AegisName: Love_Flower
     Name: Love Flower
@@ -21254,13 +20642,11 @@ Body:
     Name: Gold Pouch
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7866
     AegisName: Certificate
     Name: Certificate
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7867
     AegisName: SesamePouch
     Name: Sesame Bag
@@ -21314,63 +20700,52 @@ Body:
     Name: Pirate Treasure
     Type: Etc
     Buy: 300000
-      Override: 100
   - Id: 7876
     AegisName: Gold_Key
     Name: Golden Key
     Type: Etc
     Weight: 50
-      Override: 100
   - Id: 7877
     AegisName: Red_Ring
     Name: Red Ring
     Type: Etc
     Weight: 100
-      Override: 100
   - Id: 7878
     AegisName: Lusalka_Hair
     Name: Lusalka's Hair
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7879
     AegisName: Golden_Thread
     Name: Golden Thread
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7880
     AegisName: Babayaga_Silver_Spoon
     Name: Baba Yaga's Silver Spoon
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7881
     AegisName: Book_Of_Magic
     Name: Mystery Magic Book
     Type: Etc
     Weight: 50
-      Override: 100
   - Id: 7882
     AegisName: Pointed_Branch
     Name: Sharp Branch
     Type: Etc
-      Override: 100
   - Id: 7883
     AegisName: Pointed_Wooden_Flute
     Name: Wooden Flute
     Type: Etc
-      Override: 100
   - Id: 7884
     AegisName: Jade_Plate
     Name: Jade Plate
     Type: Etc
-      Override: 100
   - Id: 7885
     AegisName: Sacred_Arrow
     Name: Sacred Arrow
     Type: Etc
-      Override: 100
   - Id: 7886
     AegisName: Bean_Paste
     Name: Bean Paste
@@ -21419,52 +20794,42 @@ Body:
     AegisName: TRO_Memory_Book01
     Name: Rama5 Book
     Type: Etc
-      Override: 100
   - Id: 7896
     AegisName: TRO_Memory_Book02
     Name: Loykrathong Book
     Type: Etc
-      Override: 100
   - Id: 7897
     AegisName: TRO_Memory_Book03
     Name: Constitution Book
     Type: Etc
-      Override: 100
   - Id: 7898
     AegisName: VVS_Balmung
     Name: VV Strong Balmung
     Type: Etc
-      Override: 100
   - Id: 7899
     AegisName: Spiritualist_Dagger
     Name: Dagger Of Psychic
     Type: Etc
-      Override: 100
   - Id: 7900
     AegisName: Jenoss_Ring1
     Name: Jonathan Family Ring
     Type: Etc
-      Override: 100
   - Id: 7901
     AegisName: Jenoss_Ring2
     Name: Jillberriel Family Ring
     Type: Etc
-      Override: 100
   - Id: 7902
     AegisName: Jenoss_Ring3
     Name: Jessur Family Ring
     Type: Etc
-      Override: 100
   - Id: 7903
     AegisName: Jenoss_Ring4
     Name: Jenoss Family Ring
     Type: Etc
-      Override: 100
   - Id: 7904
     AegisName: Piano_Key
     Name: Piano Key
     Type: Etc
-      Override: 100
   - Id: 7905
     AegisName: Rok_Star_Badge_
     Name: Rok Star Badge
@@ -21475,14 +20840,12 @@ Body:
     AegisName: Poppy_Wreath
     Name: Poppy Wreath
     Type: Etc
-      Override: 100
   - Id: 7907
     AegisName: Bobbin_Of_Goddess
     Name: Bobbin Of Goddess
     Type: Etc
     Buy: 20
     Weight: 10
-      Override: 100
   - Id: 7908
     AegisName: Louis_Hair_Coupon
     Name: Louise's Beauty Coupon
@@ -21493,13 +20856,11 @@ Body:
     Name: Stolen Cookie
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7910
     AegisName: Stolen_Candy
     Name: Stolen Candy
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7911
     AegisName: Yulia_Hat
     Name: Yulia's Hat
@@ -21509,18 +20870,15 @@ Body:
     AegisName: Portable_Snowman
     Name: Portable Snowman Machine
     Type: Etc
-      Override: 100
   - Id: 7913
     AegisName: Test_Certificate
     Name: Battle Test Certificate
     Type: Etc
-      Override: 100
   - Id: 7914
     AegisName: Ancient_Document_TW
     Name: Ancient Language Document
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7915
     AegisName: Copper_Coin_
     Name: Bronze Coin
@@ -21535,7 +20893,6 @@ Body:
     AegisName: Magic_Potion
     Name: Magic Potion
     Type: Etc
-      Override: 100
   - Id: 7918
     AegisName: Particle_Of_Memory
     Name: Fragment Of Memory
@@ -21548,12 +20905,10 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7920
     AegisName: Hero's_Arsenal
     Name: He's Arsenal
     Type: Etc
-      Override: 100
   - Id: 7921
     AegisName: Essence_Of_Dragon
     Name: Essence Of Dragon
@@ -21570,7 +20925,6 @@ Body:
     AegisName: KRATHONG_
     Name: Krathong
     Type: Etc
-      Override: 100
   - Id: 7924
     AegisName: Gold_Paper
     Name: Gold Paper
@@ -21601,20 +20955,17 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7929
     AegisName: Golden_Coin_
     Name: Gold Coin
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7930
     AegisName: Cowking's_Nose_Ring
     Name: Devil's Cattle Ring
     Type: Etc
     Weight: 1000
-      Override: 100
   - Id: 7931
     AegisName: Poison_Kit
     Name: Poison Kit
@@ -21699,7 +21050,6 @@ Body:
     Name: Universal Amulet
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 7946
     AegisName: Valentine_Gold_Ring
     Name: Gold Ring Of Valentine
@@ -21721,36 +21071,30 @@ Body:
     Name: Woven Wool
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7950
     AegisName: Ayothaya_Ticket
     Name: Ayothaya Fest Ticket
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7951
     AegisName: Gold_Tulip
     Name: Golden Tulip Flower
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7952
     AegisName: Gift_From_Romiros
     Name: Gift Of Lomi Ross
     Type: Etc
-      Override: 100
   - Id: 7953
     AegisName: Gift_From_Juliedge
     Name: Gift Of Juliet
     Type: Etc
-      Override: 100
   - Id: 7954
     AegisName: Festival_Ticket_
     Name: Summer Festival Ticket
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 7955
     AegisName: Lost_Card1
     Name: Lost Card1
@@ -21775,65 +21119,54 @@ Body:
     AegisName: Ancient_Gold_Coin
     Name: Ancient Gold Coin
     Type: Etc
-      Override: 100
   - Id: 7960
     AegisName: Ancient_Silver_Coin
     Name: Ancient Silver Coin
     Type: Etc
-      Override: 100
   - Id: 7961
     AegisName: Weapon_Exchange
     Name: Weapon Exchange
     Type: Etc
-      Override: 100
   - Id: 7962
     AegisName: Treasure_Map1
     Name: Treasure Map1
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7963
     AegisName: Treasure_Map2
     Name: Treasure Map2
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7964
     AegisName: Treasure_Map3
     Name: Treasure Map3
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7965
     AegisName: Treasure_Map4
     Name: Treasure Map4
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7966
     AegisName: Weird_Parchment1
     Name: Weird Parchment1
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7967
     AegisName: Weird_Parchment2
     Name: Weird Parchment2
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7968
     AegisName: Weird_Parchment3
     Name: Weird Parchment3
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7969
     AegisName: Weird_Parchment4
     Name: Weird Parchment4
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 7970
     AegisName: Unwritten_Letter1
     Name: Unwritten Letter1
@@ -22070,32 +21403,26 @@ Body:
     AegisName: Barmund_Note
     Name: Varmunt's Note
     Type: Etc
-      Override: 100
   - Id: 11012
     AegisName: Expedition_Report
     Name: Expedition Report
     Type: Etc
-      Override: 100
   - Id: 11013
     AegisName: Expedition_Report_Vol1
     Name: Expedition Report Vol1
     Type: Etc
-      Override: 100
   - Id: 11014
     AegisName: Expedition_Report_Vol2
     Name: Expedition Report Vol2
     Type: Etc
-      Override: 100
   - Id: 11015
     AegisName: Expedition_Report_Vol3
     Name: Expedition Report Vol3
     Type: Etc
-      Override: 100
   - Id: 11016
     AegisName: Expedition_Report_Vol4
     Name: Expedition Report Vol4
     Type: Etc
-      Override: 100
   - Id: 11017
     AegisName: Reward_List_Book2
     Name: KVM Reward Items Catalog
@@ -22366,21 +21693,18 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 30
-      Override: 100
   - Id: 11576
     AegisName: Lucky_Candy_Cane_B
     Name: Lucky Lollipop
     Type: Etc
     Buy: 10
     Weight: 30
-      Override: 100
   - Id: 11579
     AegisName: Lucky_Candy_B
     Name: Lucky Candy
     Type: Etc
     Buy: 10
     Weight: 30
-      Override: 100
   - Id: 13200
     AegisName: Bullet
     Name: Bullet
@@ -22515,7 +21839,6 @@ Body:
     Locations:
       Ammo: true
     EquipLevelMin: 50
-      Override: 100
     Script: |
       bonus2 bAddEff,Eff_Stun,1000;
   - Id: 13210
@@ -23560,7 +22883,6 @@ Body:
     Locations:
       Ammo: true
     EquipLevelMin: 50
-      Override: 100
     Script: |
       bonus bAtkEle,Ele_Neutral; bonus2 bAddEff,Eff_Stun,1000;
   - Id: 13292
@@ -23576,7 +22898,6 @@ Body:
     Locations:
       Ammo: true
     EquipLevelMin: 1
-      Override: 100
     Script: |
       bonus bAtkEle,Ele_Neutral; bonus2 bAddEff,Eff_Stun,1000;
   - Id: 13293
@@ -23592,7 +22913,6 @@ Body:
     Locations:
       Ammo: true
     EquipLevelMin: 1
-      Override: 100
     Script: |
       bonus bAtkEle,Ele_Neutral; bonus3 bAutoSpell,"NPC_CRITICALWOUND",1,3;
   - Id: 13294
@@ -23618,7 +22938,6 @@ Body:
     Attack: 5
     Locations:
       Ammo: true
-      Override: 100
   - Id: 16570
     AegisName: Muscles_Story_J_Box
     Name: Muscle Knights Summertime Guide Box
@@ -23629,7 +22948,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
     Script: |
       /* TODO */
   - Id: 17439
@@ -23638,7 +22956,6 @@ Body:
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
     Script: |
       /* TODO */
   - Id: 18000
@@ -23753,7 +23070,6 @@ Body:
     Name: Rocker Summoning Scroll
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22519
     AegisName: Pc_Stop_Cancel
     Name: Stops Buff
@@ -23769,25 +23085,21 @@ Body:
     Name: Last Year's Frost
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 22589
     AegisName: Savage_Ora
     Name: Savage Ora Ora
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22590
     AegisName: Grand_Peco_Ora
     Name: Grand Peco Ora Ora
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22591
     AegisName: Dest_Wolf_Ora
     Name: Desert Wolf Ora Ora
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22654
     AegisName: Golden_Seal_Card
     Name: Golden Seal Card
@@ -23799,32 +23111,27 @@ Body:
     Name: Wanderer Ball
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22718
     AegisName: Lude_Ball
     Name: Lude Ball
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22719
     AegisName: Tatacho_Ball
     Name: Tatacho Ball
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22720
     AegisName: Novus_Ball
     Name: Novus Ball
     Type: Etc
     Buy: 10
-      Override: 100
   - Id: 22802
     AegisName: Safe_to_6_Equipment_Certificate
     Name: Safe to 6 Equipment Certificate
     Type: Etc
     Buy: 10
     Weight: 10
-      Override: 100
   - Id: 22814
     AegisName: Cat_Hand_Ticket
     Name: Cat Hand Ticket
@@ -23835,7 +23142,6 @@ Body:
     Name: Christmas Package
     Type: Etc
     Weight: 10
-      Override: 100
   - Id: 22875
     AegisName: Sealed_Beelzebub_Card
     Name: Sealed Beelzebub Card
@@ -23846,7 +23152,6 @@ Body:
       Head_Low: true
       Head_Mid: true
       Head_Top: true
-      Override: 100
     Script: |
       bonus bVariableCastrate,-15; /*Item removed on 2014-12-17*/
   - Id: 25000
@@ -23961,7 +23266,6 @@ Body:
     AegisName: Thorny_Vine_Flute
     Name: Thorny Vine Flute
     Type: Etc
-      Override: 100
   - Id: 25044
     AegisName: Hard_Thorny_Vine
     Name: Hard Thorny Vine
@@ -23971,27 +23275,22 @@ Body:
     AegisName: Luxurious_Cloth
     Name: Luxurious Cloth
     Type: Etc
-      Override: 100
   - Id: 25046
     AegisName: Boarding_Pass
     Name: Boarding Pass
     Type: Etc
-      Override: 100
   - Id: 25047
     AegisName: Kahlunac
     Name: Kahlunac
     Type: Etc
-      Override: 100
   - Id: 25048
     AegisName: Hearty_Lunchbox
     Name: Hearty Lunchbox
     Type: Etc
-      Override: 100
   - Id: 25049
     AegisName: Basilac_Clam
     Name: Basilac Clam
     Type: Etc
-      Override: 100
   - Id: 25058
     AegisName: TwinkleEffect_Top
     Name: Twinkle Effect (Upper)
@@ -24106,12 +23405,10 @@ Body:
     AegisName: Pumpkin_Deco
     Name: Pumpkin Deco
     Type: Etc
-      Override: 100
   - Id: 25133
     AegisName: Dried_White_Stem
     Name: Dried White Stem
     Type: Etc
-      Override: 100
   - Id: 25136
     AegisName: ElectricEffect_Middle
     Name: Electric Effect (Middle)
@@ -24150,57 +23447,46 @@ Body:
     AegisName: Gift_Stuffed_Doll
     Name: Gift Stuffed Doll
     Type: Etc
-      Override: 100
   - Id: 25144
     AegisName: Bridge_Postured_Doll
     Name: Bridge Postured Doll
     Type: Etc
-      Override: 100
   - Id: 25145
     AegisName: Burnt_Spector_Doll
     Name: Burnt Spector Doll
     Type: Etc
-      Override: 100
   - Id: 25146
     AegisName: Cold_Blooded_Queen_Doll
     Name: Cold Blooded Queen Doll
     Type: Etc
-      Override: 100
   - Id: 25147
     AegisName: Well_Eatenl_Rabbit_Doll
     Name: Well Eatenl Rabbit Doll
     Type: Etc
-      Override: 100
   - Id: 25148
     AegisName: Cute_Starved_Demon_Doll
     Name: Cute Starved Demon Doll
     Type: Etc
-      Override: 100
   - Id: 25149
     AegisName: Doll_With_Warm_Scarf
     Name: Doll With Warm Scarf
     Type: Etc
-      Override: 100
   - Id: 25150
     AegisName: Hugging_Alice_Pilow
     Name: Hugging Alice Pilow
     Type: Etc
-      Override: 100
   - Id: 25151
     AegisName: Rachels_Revolver
     Name: Rachel's Revolver
     Type: Etc
-      Override: 100
   - Id: 25152
     AegisName: Cherish_Bouquet
     Name: Cherished Bouquet
     Type: Etc
-      Override: 100
   - Id: 25153
     AegisName: Broken_Gun_Wreck
     Name: Broken Gun Wreck
     Type: Etc
-      Override: 100
   - Id: 25154
     AegisName: Antique_Powder
     Name: Antique Gunpowder
@@ -24210,7 +23496,6 @@ Body:
     AegisName: Swz_Honor_Token
     Name: Schwarz's Honor Token
     Type: Etc
-      Override: 100
   - Id: 25156
     AegisName: Piece_Of_Chimera
     Name: Piece of Chimera
@@ -24235,42 +23520,34 @@ Body:
     AegisName: Borrow_Book
     Name: Borrowed Book
     Type: Etc
-      Override: 100
   - Id: 25161
     AegisName: Handmade_cookie2
     Name: Delicious Handmade Cookie
     Type: Etc
-      Override: 100
   - Id: 25162
     AegisName: Anchovy_cookie
     Name: Crispy Anchovy
     Type: Etc
-      Override: 100
   - Id: 25163
     AegisName: Arms_Shop_AD
     Name: Arms Shop Ad
     Type: Etc
-      Override: 100
   - Id: 25164
     AegisName: Fresh_Tea_Leaves
     Name: Fresh Tea Leaves
     Type: Etc
-      Override: 100
   - Id: 25165
     AegisName: High_Class_Tea
     Name: High Class Tea
     Type: Etc
-      Override: 100
   - Id: 25166
     AegisName: Very_Shining_Ring
     Name: Very Shining Ring
     Type: Etc
-      Override: 100
   - Id: 25167
     AegisName: Old_Letter
     Name: Old Letter
     Type: Etc
-      Override: 100
   - Id: 25170
     AegisName: MinorCastingStone_Robe
     Name: Minor Casting Stone (Garment)
@@ -24329,37 +23606,30 @@ Body:
     AegisName: Blessing_Star
     Name: Blessing Star
     Type: Etc
-      Override: 100
   - Id: 25180
     AegisName: Old_Couple_Ring
     Name: Old Rings
     Type: Etc
-      Override: 100
   - Id: 25181
     AegisName: Wood_Rosary
     Name: Wood Rosary
     Type: Etc
-      Override: 100
   - Id: 25182
     AegisName: Assassin_PT_Dagger
     Name: Assassin's Mark Dagger
     Type: Etc
-      Override: 100
   - Id: 25183
     AegisName: Deco_Thimble_Archer
     Name: Decorated Archer's Thimble
     Type: Etc
-      Override: 100
   - Id: 25184
     AegisName: Portable_Sewingbox
     Name: Portable Sewingbox
     Type: Etc
-      Override: 100
   - Id: 25185
     AegisName: Locket_Pendant
     Name: Locket Pendant
     Type: Etc
-      Override: 100
   - Id: 25187
     AegisName: Slug_Bullet
     Name: Slug Bullet
@@ -24382,7 +23652,6 @@ Body:
     AegisName: Para_Team_Coin
     Name: Eden Group Coin
     Type: Etc
-      Override: 100
   - Id: 25224
     AegisName: WhiteBodyEffect_Middle
     Name: White Body Effect (Middle)
@@ -24441,32 +23710,26 @@ Body:
     AegisName: New_Normal_Lubricant
     Name: New Normal Lubricant
     Type: Etc
-      Override: 100
   - Id: 25239
     AegisName: New_Advanced_Lubricant
     Name: New Advanced Lubricant
     Type: Etc
-      Override: 100
   - Id: 25246
     AegisName: Juice_Mix_Package
     Name: Juice Mix Package
     Type: Etc
-      Override: 100
   - Id: 25247
     AegisName: Purple_Ore
     Name: Purple Ore
     Type: Etc
-      Override: 100
   - Id: 25248
     AegisName: Purple_Ore_Crate
     Name: Purple Ore Crate
     Type: Etc
-      Override: 100
   - Id: 25249
     AegisName: Buffalo_Bandit_Mane
     Name: Buffalo Bandit Mane
     Type: Etc
-      Override: 100
   - Id: 25250
     AegisName: Rock_Ridge_Coin
     Name: Rock Ridge Coin
@@ -24492,7 +23755,6 @@ Body:
     AegisName: Fragment_of_Purple_Ore
     Name: Fragment of Purple Ore
     Type: Etc
-      Override: 100
   - Id: 25271
     AegisName: Illusion_Stone
     Name: Illusion Stone
@@ -24755,7 +24017,6 @@ Body:
     Name: World Moving Rights
     Type: Etc
     Buy: 20
-      Override: 100
   - Id: 25490
     AegisName: ShadowchaserStone_Top
     Name: Stalker Stone (Upper)
