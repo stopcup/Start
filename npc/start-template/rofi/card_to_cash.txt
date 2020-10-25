@@ -1,7 +1,7 @@
 -	shop	burnCardShop	-1,501:1000000
 
 -	script	BurnCard	-1,{
-	mes "ต้องการย่อย Card หรือไม่? \n1 ใบได้ " + (1 + #card_to_cash_tier) + " Cash";
+	mes "ต้องการย่อย Card หรือไม่? \n1 ใบได้ " + ((1 + #card_to_cash_tier) * .multiplier) + " Cash";
 	next;
 	menu "ย่อย",-,"Upgrade Cash ที่จะได้รับ",L_Upgrade;
 	callshop "burnCardShop",2;
@@ -19,9 +19,9 @@ OnSellItem:
 	}
 	deletearray @sold_quantity,getarraysize(@sold_quantity);
 	deletearray @sold_nameid,getarraysize(@sold_nameid);
-	.@multiplier = 1;
+	
 	if(#card_to_cash_tier)
-	.@multiplier = (1 + #card_to_cash_tier);
+	.@multiplier = ((1 + #card_to_cash_tier) * .multiplier);
 	else
 	.@multiplier = 1 * .multiplier;
 	.@finalize = (.@burn_amount * .@multiplier);
@@ -60,7 +60,9 @@ OnInit:
 	waitingroom "แลก Card เป็น Cash",0;
 	
 	setarray .zeny_price[0],10000,100000,1000000,10000000,100000000,1000000000;
-
+	
+	.multiplier = 1;
+	
 	end;
 }
 prontera,163,167,3	duplicate(BurnCard)	 แลก Card เป็น Cash	10306
